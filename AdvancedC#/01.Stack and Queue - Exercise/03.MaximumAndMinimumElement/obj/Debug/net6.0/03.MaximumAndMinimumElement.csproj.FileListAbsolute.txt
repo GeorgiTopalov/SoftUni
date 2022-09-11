@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Stack and Queue - Exercise\03.MaximumAndMinimumElement\bin\Debug\net6.0\03.MaximumAndMinimumElement.exe
+C:\Projects\Contacts\Stack and Queue - Exercise\03.MaximumAndMinimumElement\bin\Debug\net6.0\03.MaximumAndMinimumElement.deps.json
+C:\Projects\Contacts\Stack and Queue - Exercise\03.MaximumAndMinimumElement\bin\Debug\net6.0\03.MaximumAndMinimumElement.runtimeconfig.json
+C:\Projects\Contacts\Stack and Queue - Exercise\03.MaximumAndMinimumElement\bin\Debug\net6.0\03.MaximumAndMinimumElement.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\03.MaximumAndMinimumElement\bin\Debug\net6.0\ref\03.MaximumAndMinimumElement.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\03.MaximumAndMinimumElement\bin\Debug\net6.0\03.MaximumAndMinimumElement.pdb
+C:\Projects\Contacts\Stack and Queue - Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Stack and Queue - Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Stack and Queue - Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Stack and Queue - Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.AssemblyInfo.cs
+C:\Projects\Contacts\Stack and Queue - Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Stack and Queue - Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\ref\03.MaximumAndMinimumElement.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.pdb
+C:\Projects\Contacts\Stack and Queue - Exercise\03.MaximumAndMinimumElement\obj\Debug\net6.0\03.MaximumAndMinimumElement.genruntimeconfig.cache

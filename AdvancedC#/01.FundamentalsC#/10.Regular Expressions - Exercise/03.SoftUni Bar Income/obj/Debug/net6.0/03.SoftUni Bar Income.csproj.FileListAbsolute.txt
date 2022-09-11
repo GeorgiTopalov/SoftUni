@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Regular Expressions - Exercise\03.SoftUni Bar Income\bin\Debug\net6.0\03.SoftUni Bar Income.exe
+C:\Projects\Contacts\Regular Expressions - Exercise\03.SoftUni Bar Income\bin\Debug\net6.0\03.SoftUni Bar Income.deps.json
+C:\Projects\Contacts\Regular Expressions - Exercise\03.SoftUni Bar Income\bin\Debug\net6.0\03.SoftUni Bar Income.runtimeconfig.json
+C:\Projects\Contacts\Regular Expressions - Exercise\03.SoftUni Bar Income\bin\Debug\net6.0\03.SoftUni Bar Income.dll
+C:\Projects\Contacts\Regular Expressions - Exercise\03.SoftUni Bar Income\bin\Debug\net6.0\ref\03.SoftUni Bar Income.dll
+C:\Projects\Contacts\Regular Expressions - Exercise\03.SoftUni Bar Income\bin\Debug\net6.0\03.SoftUni Bar Income.pdb
+C:\Projects\Contacts\Regular Expressions - Exercise\03.SoftUni Bar Income\obj\Debug\net6.0\03.SoftUni Bar Income.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Regular Expressions - Exercise\03.SoftUni Bar Income\obj\Debug\net6.0\03.SoftUni Bar Income.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Regular Expressions - Exercise\03.SoftUni Bar Income\obj\Debug\net6.0\03.SoftUni Bar Income.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Regular Expressions - Exercise\03.SoftUni Bar Income\obj\Debug\net6.0\03.SoftUni Bar Income.AssemblyInfo.cs
+C:\Projects\Contacts\Regular Expressions - Exercise\03.SoftUni Bar Income\obj\Debug\net6.0\03.SoftUni Bar Income.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Regular Expressions - Exercise\03.SoftUni Bar Income\obj\Debug\net6.0\03.SoftUni Bar Income.dll
+C:\Projects\Contacts\Regular Expressions - Exercise\03.SoftUni Bar Income\obj\Debug\net6.0\ref\03.SoftUni Bar Income.dll
+C:\Projects\Contacts\Regular Expressions - Exercise\03.SoftUni Bar Income\obj\Debug\net6.0\03.SoftUni Bar Income.pdb
+C:\Projects\Contacts\Regular Expressions - Exercise\03.SoftUni Bar Income\obj\Debug\net6.0\03.SoftUni Bar Income.genruntimeconfig.cache

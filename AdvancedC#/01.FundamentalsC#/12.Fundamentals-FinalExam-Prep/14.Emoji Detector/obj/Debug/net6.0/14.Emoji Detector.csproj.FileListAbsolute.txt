@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Fundamentals Exam Prep\14.Emoji Detector\bin\Debug\net6.0\14.Emoji Detector.exe
+C:\Projects\Contacts\Fundamentals Exam Prep\14.Emoji Detector\bin\Debug\net6.0\14.Emoji Detector.deps.json
+C:\Projects\Contacts\Fundamentals Exam Prep\14.Emoji Detector\bin\Debug\net6.0\14.Emoji Detector.runtimeconfig.json
+C:\Projects\Contacts\Fundamentals Exam Prep\14.Emoji Detector\bin\Debug\net6.0\14.Emoji Detector.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\14.Emoji Detector\bin\Debug\net6.0\ref\14.Emoji Detector.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\14.Emoji Detector\bin\Debug\net6.0\14.Emoji Detector.pdb
+C:\Projects\Contacts\Fundamentals Exam Prep\14.Emoji Detector\obj\Debug\net6.0\14.Emoji Detector.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Fundamentals Exam Prep\14.Emoji Detector\obj\Debug\net6.0\14.Emoji Detector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Fundamentals Exam Prep\14.Emoji Detector\obj\Debug\net6.0\14.Emoji Detector.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Fundamentals Exam Prep\14.Emoji Detector\obj\Debug\net6.0\14.Emoji Detector.AssemblyInfo.cs
+C:\Projects\Contacts\Fundamentals Exam Prep\14.Emoji Detector\obj\Debug\net6.0\14.Emoji Detector.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Fundamentals Exam Prep\14.Emoji Detector\obj\Debug\net6.0\14.Emoji Detector.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\14.Emoji Detector\obj\Debug\net6.0\ref\14.Emoji Detector.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\14.Emoji Detector\obj\Debug\net6.0\14.Emoji Detector.pdb
+C:\Projects\Contacts\Fundamentals Exam Prep\14.Emoji Detector\obj\Debug\net6.0\14.Emoji Detector.genruntimeconfig.cache

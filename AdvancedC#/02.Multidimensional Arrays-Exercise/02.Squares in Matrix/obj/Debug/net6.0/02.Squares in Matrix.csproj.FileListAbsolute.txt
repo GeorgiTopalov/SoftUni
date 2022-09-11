@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\02.Squares in Matrix\bin\Debug\net6.0\02.Squares in Matrix.exe
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\02.Squares in Matrix\bin\Debug\net6.0\02.Squares in Matrix.deps.json
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\02.Squares in Matrix\bin\Debug\net6.0\02.Squares in Matrix.runtimeconfig.json
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\02.Squares in Matrix\bin\Debug\net6.0\02.Squares in Matrix.dll
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\02.Squares in Matrix\bin\Debug\net6.0\ref\02.Squares in Matrix.dll
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\02.Squares in Matrix\bin\Debug\net6.0\02.Squares in Matrix.pdb
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\02.Squares in Matrix\obj\Debug\net6.0\02.Squares in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\02.Squares in Matrix\obj\Debug\net6.0\02.Squares in Matrix.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\02.Squares in Matrix\obj\Debug\net6.0\02.Squares in Matrix.AssemblyInfo.cs
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\02.Squares in Matrix\obj\Debug\net6.0\02.Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\02.Squares in Matrix\obj\Debug\net6.0\02.Squares in Matrix.dll
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\02.Squares in Matrix\obj\Debug\net6.0\ref\02.Squares in Matrix.dll
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\02.Squares in Matrix\obj\Debug\net6.0\02.Squares in Matrix.pdb
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\02.Squares in Matrix\obj\Debug\net6.0\02.Squares in Matrix.genruntimeconfig.cache

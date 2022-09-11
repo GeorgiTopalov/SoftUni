@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\02.SetsOfElements\bin\Debug\net6.0\02.SetsOfElements.exe
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\02.SetsOfElements\bin\Debug\net6.0\02.SetsOfElements.deps.json
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\02.SetsOfElements\bin\Debug\net6.0\02.SetsOfElements.runtimeconfig.json
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\02.SetsOfElements\bin\Debug\net6.0\02.SetsOfElements.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\02.SetsOfElements\bin\Debug\net6.0\ref\02.SetsOfElements.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\02.SetsOfElements\bin\Debug\net6.0\02.SetsOfElements.pdb
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\02.SetsOfElements\obj\Debug\net6.0\02.SetsOfElements.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\02.SetsOfElements\obj\Debug\net6.0\02.SetsOfElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\02.SetsOfElements\obj\Debug\net6.0\02.SetsOfElements.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\02.SetsOfElements\obj\Debug\net6.0\02.SetsOfElements.AssemblyInfo.cs
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\02.SetsOfElements\obj\Debug\net6.0\02.SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\02.SetsOfElements\obj\Debug\net6.0\02.SetsOfElements.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\02.SetsOfElements\obj\Debug\net6.0\ref\02.SetsOfElements.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\02.SetsOfElements\obj\Debug\net6.0\02.SetsOfElements.pdb
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\02.SetsOfElements\obj\Debug\net6.0\02.SetsOfElements.genruntimeconfig.cache

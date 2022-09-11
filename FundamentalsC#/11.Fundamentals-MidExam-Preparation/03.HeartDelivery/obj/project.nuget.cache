@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fb45CGRIjtTIdkoo51qYcd0JDjIe0PAiZoUKXWKWclv+K53Js0m4hyTHy7An5oSYNzbv9u0gEaEGyJfK1p//XQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Contacts\\11.Fundamentals-MidExam-Preparation\\03.HeartDelivery\\03.HeartDelivery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gstop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

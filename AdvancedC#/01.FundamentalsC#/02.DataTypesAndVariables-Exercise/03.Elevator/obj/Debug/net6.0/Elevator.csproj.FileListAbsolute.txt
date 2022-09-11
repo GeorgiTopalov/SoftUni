@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Elevator\Elevator\bin\Debug\net6.0\Elevator.exe
+C:\Projects\Contacts\Elevator\Elevator\bin\Debug\net6.0\Elevator.deps.json
+C:\Projects\Contacts\Elevator\Elevator\bin\Debug\net6.0\Elevator.runtimeconfig.json
+C:\Projects\Contacts\Elevator\Elevator\bin\Debug\net6.0\Elevator.dll
+C:\Projects\Contacts\Elevator\Elevator\bin\Debug\net6.0\ref\Elevator.dll
+C:\Projects\Contacts\Elevator\Elevator\bin\Debug\net6.0\Elevator.pdb
+C:\Projects\Contacts\Elevator\Elevator\obj\Debug\net6.0\Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Elevator\Elevator\obj\Debug\net6.0\Elevator.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Elevator\Elevator\obj\Debug\net6.0\Elevator.AssemblyInfo.cs
+C:\Projects\Contacts\Elevator\Elevator\obj\Debug\net6.0\Elevator.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Elevator\Elevator\obj\Debug\net6.0\Elevator.dll
+C:\Projects\Contacts\Elevator\Elevator\obj\Debug\net6.0\ref\Elevator.dll
+C:\Projects\Contacts\Elevator\Elevator\obj\Debug\net6.0\Elevator.pdb
+C:\Projects\Contacts\Elevator\Elevator\obj\Debug\net6.0\Elevator.genruntimeconfig.cache

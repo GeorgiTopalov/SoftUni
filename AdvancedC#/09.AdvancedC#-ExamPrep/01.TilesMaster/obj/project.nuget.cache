@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lMsK+VFlE7ohfRpHpla4upP4X2/nsF++8bd8bduL63gsKxQzyDznjvJSzpkByy642cenJEhmx8qz58EZMo8wFw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Contacts\\Advanced Exam Prep\\01.TilesMaster\\01.TilesMaster.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gstop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

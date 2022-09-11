@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Stack and Queue - Exercise\06.SongsQueue\bin\Debug\net6.0\06.SongsQueue.exe
+C:\Projects\Contacts\Stack and Queue - Exercise\06.SongsQueue\bin\Debug\net6.0\06.SongsQueue.deps.json
+C:\Projects\Contacts\Stack and Queue - Exercise\06.SongsQueue\bin\Debug\net6.0\06.SongsQueue.runtimeconfig.json
+C:\Projects\Contacts\Stack and Queue - Exercise\06.SongsQueue\bin\Debug\net6.0\06.SongsQueue.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\06.SongsQueue\bin\Debug\net6.0\ref\06.SongsQueue.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\06.SongsQueue\bin\Debug\net6.0\06.SongsQueue.pdb
+C:\Projects\Contacts\Stack and Queue - Exercise\06.SongsQueue\obj\Debug\net6.0\06.SongsQueue.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Stack and Queue - Exercise\06.SongsQueue\obj\Debug\net6.0\06.SongsQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Stack and Queue - Exercise\06.SongsQueue\obj\Debug\net6.0\06.SongsQueue.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Stack and Queue - Exercise\06.SongsQueue\obj\Debug\net6.0\06.SongsQueue.AssemblyInfo.cs
+C:\Projects\Contacts\Stack and Queue - Exercise\06.SongsQueue\obj\Debug\net6.0\06.SongsQueue.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Stack and Queue - Exercise\06.SongsQueue\obj\Debug\net6.0\06.SongsQueue.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\06.SongsQueue\obj\Debug\net6.0\ref\06.SongsQueue.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\06.SongsQueue\obj\Debug\net6.0\06.SongsQueue.pdb
+C:\Projects\Contacts\Stack and Queue - Exercise\06.SongsQueue\obj\Debug\net6.0\06.SongsQueue.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xqIkYKs5kjwhhF6mtPb/jGhDtRXgh1jE9vFieZmdrZJrX27DSkJ6TyV10MhJMD4SY39swg1OeSUXhP+W+3H+lQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Contacts\\Streams,Files and Directories - Exercise\\ZipAndExtract\\ZipAndExtract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gstop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e35cb789-1b2a-4cf8-9cf3-346eb1c734d5": {
+      "ProjectGuid": "e35cb789-1b2a-4cf8-9cf3-346eb1c734d5",
+      "DisplayName": "Data Types",
+      "ColorIndex": 0
+    },
+    "34e0f83d-e339-4240-917f-d4e0e8c1ae5e": {
+      "ProjectGuid": "34e0f83d-e339-4240-917f-d4e0e8c1ae5e",
+      "DisplayName": "Center Point",
+      "ColorIndex": 1
+    },
+    "03305835-fe06-4740-86bb-ccd8174d5f21": {
+      "ProjectGuid": "03305835-fe06-4740-86bb-ccd8174d5f21",
+      "DisplayName": "Tribonacci Sequence",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

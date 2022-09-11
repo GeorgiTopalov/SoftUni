@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "88b74796-ed30-4fa0-9a09-b9133e9a9301": {
+      "ProjectGuid": "88b74796-ed30-4fa0-9a09-b9133e9a9301",
+      "DisplayName": "Advertisement Message",
+      "ColorIndex": 0
+    },
+    "ee00f7d9-a5b7-4c63-992b-2b3fef665426": {
+      "ProjectGuid": "ee00f7d9-a5b7-4c63-992b-2b3fef665426",
+      "DisplayName": "Articles",
+      "ColorIndex": 1
+    },
+    "a981ff63-8f0b-4b4d-86d7-5b11fe2896a3": {
+      "ProjectGuid": "a981ff63-8f0b-4b4d-86d7-5b11fe2896a3",
+      "DisplayName": "Article 2.0",
+      "ColorIndex": 2
+    },
+    "23625d41-2bbf-4f72-b629-c12e1776418d": {
+      "ProjectGuid": "23625d41-2bbf-4f72-b629-c12e1776418d",
+      "DisplayName": "Students",
+      "ColorIndex": 3
+    },
+    "f605b2d7-68a5-4cfc-8508-2dae4c269089": {
+      "ProjectGuid": "f605b2d7-68a5-4cfc-8508-2dae4c269089",
+      "DisplayName": "Teamwork Projects",
+      "ColorIndex": 4
+    },
+    "cf9a3c2e-2ec8-4919-bb94-2cc14e33f885": {
+      "ProjectGuid": "cf9a3c2e-2ec8-4919-bb94-2cc14e33f885",
+      "DisplayName": "Vehicle Catalogue",
+      "ColorIndex": 5
+    },
+    "adbdf9f2-74c0-4c1e-805b-e77afb2dd97a": {
+      "ProjectGuid": "adbdf9f2-74c0-4c1e-805b-e77afb2dd97a",
+      "DisplayName": "Order By Age",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 7
+}

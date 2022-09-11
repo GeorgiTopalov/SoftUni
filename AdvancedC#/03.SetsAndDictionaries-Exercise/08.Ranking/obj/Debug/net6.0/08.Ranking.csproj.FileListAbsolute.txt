@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\08.Ranking\bin\Debug\net6.0\08.Ranking.exe
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\08.Ranking\bin\Debug\net6.0\08.Ranking.deps.json
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\08.Ranking\bin\Debug\net6.0\08.Ranking.runtimeconfig.json
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\08.Ranking\bin\Debug\net6.0\08.Ranking.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\08.Ranking\bin\Debug\net6.0\ref\08.Ranking.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\08.Ranking\bin\Debug\net6.0\08.Ranking.pdb
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\08.Ranking\obj\Debug\net6.0\08.Ranking.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\08.Ranking\obj\Debug\net6.0\08.Ranking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\08.Ranking\obj\Debug\net6.0\08.Ranking.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\08.Ranking\obj\Debug\net6.0\08.Ranking.AssemblyInfo.cs
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\08.Ranking\obj\Debug\net6.0\08.Ranking.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\08.Ranking\obj\Debug\net6.0\08.Ranking.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\08.Ranking\obj\Debug\net6.0\ref\08.Ranking.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\08.Ranking\obj\Debug\net6.0\08.Ranking.pdb
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\08.Ranking\obj\Debug\net6.0\08.Ranking.genruntimeconfig.cache

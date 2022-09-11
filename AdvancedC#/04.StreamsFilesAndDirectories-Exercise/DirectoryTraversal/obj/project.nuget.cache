@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RdzECw0Je5bsIsnDLLMe2LkBqoIPhJxnlejkLxK0LgXVNXWEjs2/xk1zfL3SzJAUBj4M/WPyqalwPbCru97ljg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Contacts\\Streams,Files and Directories - Exercise\\DirectoryTraversal\\DirectoryTraversal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gstop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

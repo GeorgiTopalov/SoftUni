@@ -1,0 +1,14 @@
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\01.LystIterator\bin\Debug\netcoreapp3.1\01.LystIterator.exe
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\01.LystIterator\bin\Debug\netcoreapp3.1\01.LystIterator.deps.json
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\01.LystIterator\bin\Debug\netcoreapp3.1\01.LystIterator.runtimeconfig.json
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\01.LystIterator\bin\Debug\netcoreapp3.1\01.LystIterator.runtimeconfig.dev.json
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\01.LystIterator\bin\Debug\netcoreapp3.1\01.LystIterator.dll
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\01.LystIterator\bin\Debug\netcoreapp3.1\01.LystIterator.pdb
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\01.LystIterator\obj\Debug\netcoreapp3.1\01.LystIterator.csproj.AssemblyReference.cache
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\01.LystIterator\obj\Debug\netcoreapp3.1\01.LystIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\01.LystIterator\obj\Debug\netcoreapp3.1\01.LystIterator.AssemblyInfoInputs.cache
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\01.LystIterator\obj\Debug\netcoreapp3.1\01.LystIterator.AssemblyInfo.cs
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\01.LystIterator\obj\Debug\netcoreapp3.1\01.LystIterator.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\01.LystIterator\obj\Debug\netcoreapp3.1\01.LystIterator.dll
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\01.LystIterator\obj\Debug\netcoreapp3.1\01.LystIterator.pdb
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\01.LystIterator\obj\Debug\netcoreapp3.1\01.LystIterator.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "20ad7e19-ef56-4616-b4a3-0aea5c99f0a7": {
+      "ProjectGuid": "20ad7e19-ef56-4616-b4a3-0aea5c99f0a7",
+      "DisplayName": "Encrypt, Sort and Print Array",
+      "ColorIndex": 0
+    },
+    "8e2e1526-3d5e-4fe3-81f9-11f11082ee22": {
+      "ProjectGuid": "8e2e1526-3d5e-4fe3-81f9-11f11082ee22",
+      "DisplayName": "Pascal Triangle",
+      "ColorIndex": 1
+    },
+    "6fcd59c0-23d3-4627-8ed0-2775d5d40778": {
+      "ProjectGuid": "6fcd59c0-23d3-4627-8ed0-2775d5d40778",
+      "DisplayName": "Recursive Fibonacci",
+      "ColorIndex": 2
+    },
+    "2e5c7e8f-960f-4fff-9c23-2487286ba745": {
+      "ProjectGuid": "2e5c7e8f-960f-4fff-9c23-2487286ba745",
+      "DisplayName": "Fold and Sum",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

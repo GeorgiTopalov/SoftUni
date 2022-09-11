@@ -1,0 +1,15 @@
+C:\Projects\Contacts\ListsExercise\Anonymous Threat\bin\Debug\net6.0\Anonymous Threat.exe
+C:\Projects\Contacts\ListsExercise\Anonymous Threat\bin\Debug\net6.0\Anonymous Threat.deps.json
+C:\Projects\Contacts\ListsExercise\Anonymous Threat\bin\Debug\net6.0\Anonymous Threat.runtimeconfig.json
+C:\Projects\Contacts\ListsExercise\Anonymous Threat\bin\Debug\net6.0\Anonymous Threat.dll
+C:\Projects\Contacts\ListsExercise\Anonymous Threat\bin\Debug\net6.0\ref\Anonymous Threat.dll
+C:\Projects\Contacts\ListsExercise\Anonymous Threat\bin\Debug\net6.0\Anonymous Threat.pdb
+C:\Projects\Contacts\ListsExercise\Anonymous Threat\obj\Debug\net6.0\Anonymous Threat.csproj.AssemblyReference.cache
+C:\Projects\Contacts\ListsExercise\Anonymous Threat\obj\Debug\net6.0\Anonymous Threat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\ListsExercise\Anonymous Threat\obj\Debug\net6.0\Anonymous Threat.AssemblyInfoInputs.cache
+C:\Projects\Contacts\ListsExercise\Anonymous Threat\obj\Debug\net6.0\Anonymous Threat.AssemblyInfo.cs
+C:\Projects\Contacts\ListsExercise\Anonymous Threat\obj\Debug\net6.0\Anonymous Threat.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\ListsExercise\Anonymous Threat\obj\Debug\net6.0\Anonymous Threat.dll
+C:\Projects\Contacts\ListsExercise\Anonymous Threat\obj\Debug\net6.0\ref\Anonymous Threat.dll
+C:\Projects\Contacts\ListsExercise\Anonymous Threat\obj\Debug\net6.0\Anonymous Threat.pdb
+C:\Projects\Contacts\ListsExercise\Anonymous Threat\obj\Debug\net6.0\Anonymous Threat.genruntimeconfig.cache

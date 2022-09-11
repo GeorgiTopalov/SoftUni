@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Stack and Queue - Exercise\09.SimpleTextEditor\bin\Debug\net6.0\09.SimpleTextEditor.exe
+C:\Projects\Contacts\Stack and Queue - Exercise\09.SimpleTextEditor\bin\Debug\net6.0\09.SimpleTextEditor.deps.json
+C:\Projects\Contacts\Stack and Queue - Exercise\09.SimpleTextEditor\bin\Debug\net6.0\09.SimpleTextEditor.runtimeconfig.json
+C:\Projects\Contacts\Stack and Queue - Exercise\09.SimpleTextEditor\bin\Debug\net6.0\09.SimpleTextEditor.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\09.SimpleTextEditor\bin\Debug\net6.0\ref\09.SimpleTextEditor.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\09.SimpleTextEditor\bin\Debug\net6.0\09.SimpleTextEditor.pdb
+C:\Projects\Contacts\Stack and Queue - Exercise\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Stack and Queue - Exercise\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Stack and Queue - Exercise\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Stack and Queue - Exercise\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.AssemblyInfo.cs
+C:\Projects\Contacts\Stack and Queue - Exercise\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Stack and Queue - Exercise\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\09.SimpleTextEditor\obj\Debug\net6.0\ref\09.SimpleTextEditor.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.pdb
+C:\Projects\Contacts\Stack and Queue - Exercise\09.SimpleTextEditor\obj\Debug\net6.0\09.SimpleTextEditor.genruntimeconfig.cache

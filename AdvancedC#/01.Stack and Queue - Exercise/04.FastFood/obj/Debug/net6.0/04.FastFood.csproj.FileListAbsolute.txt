@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Stack and Queue - Exercise\04.FastFood\bin\Debug\net6.0\04.FastFood.exe
+C:\Projects\Contacts\Stack and Queue - Exercise\04.FastFood\bin\Debug\net6.0\04.FastFood.deps.json
+C:\Projects\Contacts\Stack and Queue - Exercise\04.FastFood\bin\Debug\net6.0\04.FastFood.runtimeconfig.json
+C:\Projects\Contacts\Stack and Queue - Exercise\04.FastFood\bin\Debug\net6.0\04.FastFood.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\04.FastFood\bin\Debug\net6.0\ref\04.FastFood.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\04.FastFood\bin\Debug\net6.0\04.FastFood.pdb
+C:\Projects\Contacts\Stack and Queue - Exercise\04.FastFood\obj\Debug\net6.0\04.FastFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Stack and Queue - Exercise\04.FastFood\obj\Debug\net6.0\04.FastFood.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Stack and Queue - Exercise\04.FastFood\obj\Debug\net6.0\04.FastFood.AssemblyInfo.cs
+C:\Projects\Contacts\Stack and Queue - Exercise\04.FastFood\obj\Debug\net6.0\04.FastFood.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Stack and Queue - Exercise\04.FastFood\obj\Debug\net6.0\04.FastFood.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\04.FastFood\obj\Debug\net6.0\ref\04.FastFood.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\04.FastFood\obj\Debug\net6.0\04.FastFood.pdb
+C:\Projects\Contacts\Stack and Queue - Exercise\04.FastFood\obj\Debug\net6.0\04.FastFood.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ywl6dutHScweAGmEPVDt7vYb0uTIlLDuSCSd68CJsnxmeN9Fp8w0NyejyaSQIyHM7vnSHvAW7ufoxtnWHp/xg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Contacts\\Advanced Exam Prep\\01.Blacksmith\\01.Blacksmith.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gstop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

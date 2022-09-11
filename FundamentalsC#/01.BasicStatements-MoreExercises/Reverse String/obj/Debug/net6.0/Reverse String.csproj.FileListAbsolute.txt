@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Basic Statements More Exercises\Reverse String\bin\Debug\net6.0\Reverse String.exe
+C:\Projects\Contacts\Basic Statements More Exercises\Reverse String\bin\Debug\net6.0\Reverse String.deps.json
+C:\Projects\Contacts\Basic Statements More Exercises\Reverse String\bin\Debug\net6.0\Reverse String.runtimeconfig.json
+C:\Projects\Contacts\Basic Statements More Exercises\Reverse String\bin\Debug\net6.0\Reverse String.dll
+C:\Projects\Contacts\Basic Statements More Exercises\Reverse String\bin\Debug\net6.0\ref\Reverse String.dll
+C:\Projects\Contacts\Basic Statements More Exercises\Reverse String\bin\Debug\net6.0\Reverse String.pdb
+C:\Projects\Contacts\Basic Statements More Exercises\Reverse String\obj\Debug\net6.0\Reverse String.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Basic Statements More Exercises\Reverse String\obj\Debug\net6.0\Reverse String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Basic Statements More Exercises\Reverse String\obj\Debug\net6.0\Reverse String.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Basic Statements More Exercises\Reverse String\obj\Debug\net6.0\Reverse String.AssemblyInfo.cs
+C:\Projects\Contacts\Basic Statements More Exercises\Reverse String\obj\Debug\net6.0\Reverse String.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Basic Statements More Exercises\Reverse String\obj\Debug\net6.0\Reverse String.dll
+C:\Projects\Contacts\Basic Statements More Exercises\Reverse String\obj\Debug\net6.0\ref\Reverse String.dll
+C:\Projects\Contacts\Basic Statements More Exercises\Reverse String\obj\Debug\net6.0\Reverse String.pdb
+C:\Projects\Contacts\Basic Statements More Exercises\Reverse String\obj\Debug\net6.0\Reverse String.genruntimeconfig.cache

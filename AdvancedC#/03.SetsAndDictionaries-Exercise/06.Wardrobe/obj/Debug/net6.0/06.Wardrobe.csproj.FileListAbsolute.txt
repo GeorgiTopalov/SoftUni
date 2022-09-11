@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\06.Wardrobe\bin\Debug\net6.0\06.Wardrobe.exe
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\06.Wardrobe\bin\Debug\net6.0\06.Wardrobe.deps.json
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\06.Wardrobe\bin\Debug\net6.0\06.Wardrobe.runtimeconfig.json
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\06.Wardrobe\bin\Debug\net6.0\06.Wardrobe.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\06.Wardrobe\bin\Debug\net6.0\ref\06.Wardrobe.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\06.Wardrobe\bin\Debug\net6.0\06.Wardrobe.pdb
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.AssemblyInfo.cs
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\06.Wardrobe\obj\Debug\net6.0\ref\06.Wardrobe.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.pdb
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\06.Wardrobe\obj\Debug\net6.0\06.Wardrobe.genruntimeconfig.cache

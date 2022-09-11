@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Basic Statements More Exercises\Basic Statements More Exercises\bin\Debug\net6.0\Sort Numbers.exe
+C:\Projects\Contacts\Basic Statements More Exercises\Basic Statements More Exercises\bin\Debug\net6.0\Sort Numbers.deps.json
+C:\Projects\Contacts\Basic Statements More Exercises\Basic Statements More Exercises\bin\Debug\net6.0\Sort Numbers.runtimeconfig.json
+C:\Projects\Contacts\Basic Statements More Exercises\Basic Statements More Exercises\bin\Debug\net6.0\Sort Numbers.dll
+C:\Projects\Contacts\Basic Statements More Exercises\Basic Statements More Exercises\bin\Debug\net6.0\ref\Sort Numbers.dll
+C:\Projects\Contacts\Basic Statements More Exercises\Basic Statements More Exercises\bin\Debug\net6.0\Sort Numbers.pdb
+C:\Projects\Contacts\Basic Statements More Exercises\Basic Statements More Exercises\obj\Debug\net6.0\Sort Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Basic Statements More Exercises\Basic Statements More Exercises\obj\Debug\net6.0\Sort Numbers.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Basic Statements More Exercises\Basic Statements More Exercises\obj\Debug\net6.0\Sort Numbers.AssemblyInfo.cs
+C:\Projects\Contacts\Basic Statements More Exercises\Basic Statements More Exercises\obj\Debug\net6.0\Sort Numbers.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Basic Statements More Exercises\Basic Statements More Exercises\obj\Debug\net6.0\Sort Numbers.dll
+C:\Projects\Contacts\Basic Statements More Exercises\Basic Statements More Exercises\obj\Debug\net6.0\ref\Sort Numbers.dll
+C:\Projects\Contacts\Basic Statements More Exercises\Basic Statements More Exercises\obj\Debug\net6.0\Sort Numbers.pdb
+C:\Projects\Contacts\Basic Statements More Exercises\Basic Statements More Exercises\obj\Debug\net6.0\Sort Numbers.genruntimeconfig.cache
+C:\Projects\Contacts\Basic Statements More Exercises\Basic Statements More Exercises\obj\Debug\net6.0\Sort Numbers.csproj.AssemblyReference.cache

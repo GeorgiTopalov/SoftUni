@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Stack and Queue - Exercise\05.FashionBoutique\bin\Debug\net6.0\05.FashionBoutique.exe
+C:\Projects\Contacts\Stack and Queue - Exercise\05.FashionBoutique\bin\Debug\net6.0\05.FashionBoutique.deps.json
+C:\Projects\Contacts\Stack and Queue - Exercise\05.FashionBoutique\bin\Debug\net6.0\05.FashionBoutique.runtimeconfig.json
+C:\Projects\Contacts\Stack and Queue - Exercise\05.FashionBoutique\bin\Debug\net6.0\05.FashionBoutique.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\05.FashionBoutique\bin\Debug\net6.0\ref\05.FashionBoutique.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\05.FashionBoutique\bin\Debug\net6.0\05.FashionBoutique.pdb
+C:\Projects\Contacts\Stack and Queue - Exercise\05.FashionBoutique\obj\Debug\net6.0\05.FashionBoutique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Stack and Queue - Exercise\05.FashionBoutique\obj\Debug\net6.0\05.FashionBoutique.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Stack and Queue - Exercise\05.FashionBoutique\obj\Debug\net6.0\05.FashionBoutique.AssemblyInfo.cs
+C:\Projects\Contacts\Stack and Queue - Exercise\05.FashionBoutique\obj\Debug\net6.0\05.FashionBoutique.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Stack and Queue - Exercise\05.FashionBoutique\obj\Debug\net6.0\05.FashionBoutique.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\05.FashionBoutique\obj\Debug\net6.0\ref\05.FashionBoutique.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\05.FashionBoutique\obj\Debug\net6.0\05.FashionBoutique.pdb
+C:\Projects\Contacts\Stack and Queue - Exercise\05.FashionBoutique\obj\Debug\net6.0\05.FashionBoutique.genruntimeconfig.cache

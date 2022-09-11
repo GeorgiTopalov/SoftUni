@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Stack and Queue - Exercise\Stack and Queue - Exercise\bin\Debug\net6.0\01.BasicStackOperations.exe
+C:\Projects\Contacts\Stack and Queue - Exercise\Stack and Queue - Exercise\bin\Debug\net6.0\01.BasicStackOperations.deps.json
+C:\Projects\Contacts\Stack and Queue - Exercise\Stack and Queue - Exercise\bin\Debug\net6.0\01.BasicStackOperations.runtimeconfig.json
+C:\Projects\Contacts\Stack and Queue - Exercise\Stack and Queue - Exercise\bin\Debug\net6.0\01.BasicStackOperations.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\Stack and Queue - Exercise\bin\Debug\net6.0\ref\01.BasicStackOperations.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\Stack and Queue - Exercise\bin\Debug\net6.0\01.BasicStackOperations.pdb
+C:\Projects\Contacts\Stack and Queue - Exercise\Stack and Queue - Exercise\obj\Debug\net6.0\01.BasicStackOperations.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Stack and Queue - Exercise\Stack and Queue - Exercise\obj\Debug\net6.0\01.BasicStackOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Stack and Queue - Exercise\Stack and Queue - Exercise\obj\Debug\net6.0\01.BasicStackOperations.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Stack and Queue - Exercise\Stack and Queue - Exercise\obj\Debug\net6.0\01.BasicStackOperations.AssemblyInfo.cs
+C:\Projects\Contacts\Stack and Queue - Exercise\Stack and Queue - Exercise\obj\Debug\net6.0\01.BasicStackOperations.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Stack and Queue - Exercise\Stack and Queue - Exercise\obj\Debug\net6.0\01.BasicStackOperations.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\Stack and Queue - Exercise\obj\Debug\net6.0\ref\01.BasicStackOperations.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\Stack and Queue - Exercise\obj\Debug\net6.0\01.BasicStackOperations.pdb
+C:\Projects\Contacts\Stack and Queue - Exercise\Stack and Queue - Exercise\obj\Debug\net6.0\01.BasicStackOperations.genruntimeconfig.cache

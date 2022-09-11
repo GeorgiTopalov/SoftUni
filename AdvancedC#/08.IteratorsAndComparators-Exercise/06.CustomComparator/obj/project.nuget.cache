@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7/HTMURjpSRcTf/y7n6281zPbb51KqBvI1P+eaKXh4pi/Wak55YIY3r1XhHruOpX+xvvoQZwXBUI1mV0GqfyKw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Contacts\\IteratorsAndComparators - Exercise\\06.CustomComparator\\06.CustomComparator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gstop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

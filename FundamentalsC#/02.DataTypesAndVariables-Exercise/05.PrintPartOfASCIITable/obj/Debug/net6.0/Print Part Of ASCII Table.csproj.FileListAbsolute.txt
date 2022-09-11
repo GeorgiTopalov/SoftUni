@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Print Part Of ASCII Table\Print Part Of ASCII Table\bin\Debug\net6.0\Print Part Of ASCII Table.exe
+C:\Projects\Contacts\Print Part Of ASCII Table\Print Part Of ASCII Table\bin\Debug\net6.0\Print Part Of ASCII Table.deps.json
+C:\Projects\Contacts\Print Part Of ASCII Table\Print Part Of ASCII Table\bin\Debug\net6.0\Print Part Of ASCII Table.runtimeconfig.json
+C:\Projects\Contacts\Print Part Of ASCII Table\Print Part Of ASCII Table\bin\Debug\net6.0\Print Part Of ASCII Table.dll
+C:\Projects\Contacts\Print Part Of ASCII Table\Print Part Of ASCII Table\bin\Debug\net6.0\ref\Print Part Of ASCII Table.dll
+C:\Projects\Contacts\Print Part Of ASCII Table\Print Part Of ASCII Table\bin\Debug\net6.0\Print Part Of ASCII Table.pdb
+C:\Projects\Contacts\Print Part Of ASCII Table\Print Part Of ASCII Table\obj\Debug\net6.0\Print Part Of ASCII Table.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Print Part Of ASCII Table\Print Part Of ASCII Table\obj\Debug\net6.0\Print Part Of ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Print Part Of ASCII Table\Print Part Of ASCII Table\obj\Debug\net6.0\Print Part Of ASCII Table.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Print Part Of ASCII Table\Print Part Of ASCII Table\obj\Debug\net6.0\Print Part Of ASCII Table.AssemblyInfo.cs
+C:\Projects\Contacts\Print Part Of ASCII Table\Print Part Of ASCII Table\obj\Debug\net6.0\Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Print Part Of ASCII Table\Print Part Of ASCII Table\obj\Debug\net6.0\Print Part Of ASCII Table.dll
+C:\Projects\Contacts\Print Part Of ASCII Table\Print Part Of ASCII Table\obj\Debug\net6.0\ref\Print Part Of ASCII Table.dll
+C:\Projects\Contacts\Print Part Of ASCII Table\Print Part Of ASCII Table\obj\Debug\net6.0\Print Part Of ASCII Table.pdb
+C:\Projects\Contacts\Print Part Of ASCII Table\Print Part Of ASCII Table\obj\Debug\net6.0\Print Part Of ASCII Table.genruntimeconfig.cache

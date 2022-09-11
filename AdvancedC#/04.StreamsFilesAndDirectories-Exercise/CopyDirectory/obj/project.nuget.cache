@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QcJDyIgm2iTApVSSp1QL1JRnBaAXbTQMNGf/uLker2onJL3ggqhpWKu6ZtLIeta+Q3vTkmGvRco6crSpEG02Lg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Contacts\\Streams,Files and Directories - Exercise\\CopyDirectory\\CopyDirectory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gstop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

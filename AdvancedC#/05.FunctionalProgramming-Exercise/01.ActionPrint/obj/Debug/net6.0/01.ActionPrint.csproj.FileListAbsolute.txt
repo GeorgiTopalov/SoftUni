@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Functional Programming - Exercise\Functional Programming - Exercise\bin\Debug\net6.0\01.ActionPrint.exe
+C:\Projects\Contacts\Functional Programming - Exercise\Functional Programming - Exercise\bin\Debug\net6.0\01.ActionPrint.deps.json
+C:\Projects\Contacts\Functional Programming - Exercise\Functional Programming - Exercise\bin\Debug\net6.0\01.ActionPrint.runtimeconfig.json
+C:\Projects\Contacts\Functional Programming - Exercise\Functional Programming - Exercise\bin\Debug\net6.0\01.ActionPrint.dll
+C:\Projects\Contacts\Functional Programming - Exercise\Functional Programming - Exercise\bin\Debug\net6.0\ref\01.ActionPrint.dll
+C:\Projects\Contacts\Functional Programming - Exercise\Functional Programming - Exercise\bin\Debug\net6.0\01.ActionPrint.pdb
+C:\Projects\Contacts\Functional Programming - Exercise\Functional Programming - Exercise\obj\Debug\net6.0\01.ActionPrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Functional Programming - Exercise\Functional Programming - Exercise\obj\Debug\net6.0\01.ActionPrint.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Functional Programming - Exercise\Functional Programming - Exercise\obj\Debug\net6.0\01.ActionPrint.AssemblyInfo.cs
+C:\Projects\Contacts\Functional Programming - Exercise\Functional Programming - Exercise\obj\Debug\net6.0\01.ActionPrint.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Functional Programming - Exercise\Functional Programming - Exercise\obj\Debug\net6.0\01.ActionPrint.dll
+C:\Projects\Contacts\Functional Programming - Exercise\Functional Programming - Exercise\obj\Debug\net6.0\ref\01.ActionPrint.dll
+C:\Projects\Contacts\Functional Programming - Exercise\Functional Programming - Exercise\obj\Debug\net6.0\01.ActionPrint.pdb
+C:\Projects\Contacts\Functional Programming - Exercise\Functional Programming - Exercise\obj\Debug\net6.0\01.ActionPrint.genruntimeconfig.cache

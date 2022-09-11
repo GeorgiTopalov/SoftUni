@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TNcEaErUc6NWyns+WyIS7TDcst+JZx06HrfBFcDtRl3ULcMaQCFshGyNt0VCBGJyVLTIoq9knfqMbn52GMqE3A==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Contacts\\11.Fundamentals-MidExam-Preparation\\01.Counter-Strike\\01.Counter-Strike.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gstop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

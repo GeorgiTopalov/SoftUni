@@ -1,0 +1,13 @@
+C:\Projects\Contacts\Generics - Exercose\04.GenericSwapmethodInteger\bin\Debug\netcoreapp3.1\04.GenericSwapmethodInteger.exe
+C:\Projects\Contacts\Generics - Exercose\04.GenericSwapmethodInteger\bin\Debug\netcoreapp3.1\04.GenericSwapmethodInteger.deps.json
+C:\Projects\Contacts\Generics - Exercose\04.GenericSwapmethodInteger\bin\Debug\netcoreapp3.1\04.GenericSwapmethodInteger.runtimeconfig.json
+C:\Projects\Contacts\Generics - Exercose\04.GenericSwapmethodInteger\bin\Debug\netcoreapp3.1\04.GenericSwapmethodInteger.runtimeconfig.dev.json
+C:\Projects\Contacts\Generics - Exercose\04.GenericSwapmethodInteger\bin\Debug\netcoreapp3.1\04.GenericSwapmethodInteger.dll
+C:\Projects\Contacts\Generics - Exercose\04.GenericSwapmethodInteger\bin\Debug\netcoreapp3.1\04.GenericSwapmethodInteger.pdb
+C:\Projects\Contacts\Generics - Exercose\04.GenericSwapmethodInteger\obj\Debug\netcoreapp3.1\04.GenericSwapmethodInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Generics - Exercose\04.GenericSwapmethodInteger\obj\Debug\netcoreapp3.1\04.GenericSwapmethodInteger.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Generics - Exercose\04.GenericSwapmethodInteger\obj\Debug\netcoreapp3.1\04.GenericSwapmethodInteger.AssemblyInfo.cs
+C:\Projects\Contacts\Generics - Exercose\04.GenericSwapmethodInteger\obj\Debug\netcoreapp3.1\04.GenericSwapmethodInteger.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Generics - Exercose\04.GenericSwapmethodInteger\obj\Debug\netcoreapp3.1\04.GenericSwapmethodInteger.dll
+C:\Projects\Contacts\Generics - Exercose\04.GenericSwapmethodInteger\obj\Debug\netcoreapp3.1\04.GenericSwapmethodInteger.pdb
+C:\Projects\Contacts\Generics - Exercose\04.GenericSwapmethodInteger\obj\Debug\netcoreapp3.1\04.GenericSwapmethodInteger.genruntimeconfig.cache

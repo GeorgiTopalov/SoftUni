@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Generics - Exercose\06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\06.GenericCountMethodDouble.exe
+C:\Projects\Contacts\Generics - Exercose\06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\06.GenericCountMethodDouble.deps.json
+C:\Projects\Contacts\Generics - Exercose\06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\06.GenericCountMethodDouble.runtimeconfig.json
+C:\Projects\Contacts\Generics - Exercose\06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\06.GenericCountMethodDouble.runtimeconfig.dev.json
+C:\Projects\Contacts\Generics - Exercose\06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\06.GenericCountMethodDouble.dll
+C:\Projects\Contacts\Generics - Exercose\06.GenericCountMethodDouble\bin\Debug\netcoreapp3.1\06.GenericCountMethodDouble.pdb
+C:\Projects\Contacts\Generics - Exercose\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Generics - Exercose\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Generics - Exercose\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Generics - Exercose\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.AssemblyInfo.cs
+C:\Projects\Contacts\Generics - Exercose\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Generics - Exercose\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.dll
+C:\Projects\Contacts\Generics - Exercose\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.pdb
+C:\Projects\Contacts\Generics - Exercose\06.GenericCountMethodDouble\obj\Debug\netcoreapp3.1\06.GenericCountMethodDouble.genruntimeconfig.cache

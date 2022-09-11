@@ -1,0 +1,21 @@
+C:\Projects\Contacts\ListsExercise\ChangeList\bin\Debug\net6.0\Append Arrays.deps.json
+C:\Projects\Contacts\ListsExercise\ChangeList\bin\Debug\net6.0\Append Arrays.runtimeconfig.json
+C:\Projects\Contacts\ListsExercise\ChangeList\bin\Debug\net6.0\Append Arrays.exe
+C:\Projects\Contacts\ListsExercise\ChangeList\bin\Debug\net6.0\ChangeList.exe
+C:\Projects\Contacts\ListsExercise\ChangeList\bin\Debug\net6.0\ChangeList.deps.json
+C:\Projects\Contacts\ListsExercise\ChangeList\bin\Debug\net6.0\ChangeList.runtimeconfig.json
+C:\Projects\Contacts\ListsExercise\ChangeList\bin\Debug\net6.0\ChangeList.dll
+C:\Projects\Contacts\ListsExercise\ChangeList\bin\Debug\net6.0\ref\ChangeList.dll
+C:\Projects\Contacts\ListsExercise\ChangeList\bin\Debug\net6.0\ChangeList.pdb
+C:\Projects\Contacts\ListsExercise\ChangeList\bin\Debug\net6.0\Append Arrays.dll
+C:\Projects\Contacts\ListsExercise\ChangeList\bin\Debug\net6.0\Append Arrays.pdb
+C:\Projects\Contacts\ListsExercise\ChangeList\obj\Debug\net6.0\ChangeList.csproj.AssemblyReference.cache
+C:\Projects\Contacts\ListsExercise\ChangeList\obj\Debug\net6.0\ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\ListsExercise\ChangeList\obj\Debug\net6.0\ChangeList.AssemblyInfoInputs.cache
+C:\Projects\Contacts\ListsExercise\ChangeList\obj\Debug\net6.0\ChangeList.AssemblyInfo.cs
+C:\Projects\Contacts\ListsExercise\ChangeList\obj\Debug\net6.0\ChangeList.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\ListsExercise\ChangeList\obj\Debug\net6.0\ChangeList.csproj.CopyComplete
+C:\Projects\Contacts\ListsExercise\ChangeList\obj\Debug\net6.0\ChangeList.dll
+C:\Projects\Contacts\ListsExercise\ChangeList\obj\Debug\net6.0\ref\ChangeList.dll
+C:\Projects\Contacts\ListsExercise\ChangeList\obj\Debug\net6.0\ChangeList.pdb
+C:\Projects\Contacts\ListsExercise\ChangeList\obj\Debug\net6.0\ChangeList.genruntimeconfig.cache

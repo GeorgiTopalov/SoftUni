@@ -1,0 +1,14 @@
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.exe
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.deps.json
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.runtimeconfig.json
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.runtimeconfig.dev.json
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.dll
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.pdb
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.csproj.AssemblyReference.cache
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.AssemblyInfoInputs.cache
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.AssemblyInfo.cs
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.dll
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.pdb
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.genruntimeconfig.cache

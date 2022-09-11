@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\07.TheV-Logger\bin\Debug\net6.0\07.TheV-Logger.exe
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\07.TheV-Logger\bin\Debug\net6.0\07.TheV-Logger.deps.json
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\07.TheV-Logger\bin\Debug\net6.0\07.TheV-Logger.runtimeconfig.json
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\07.TheV-Logger\bin\Debug\net6.0\07.TheV-Logger.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\07.TheV-Logger\bin\Debug\net6.0\ref\07.TheV-Logger.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\07.TheV-Logger\bin\Debug\net6.0\07.TheV-Logger.pdb
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\07.TheV-Logger\obj\Debug\net6.0\07.TheV-Logger.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\07.TheV-Logger\obj\Debug\net6.0\07.TheV-Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\07.TheV-Logger\obj\Debug\net6.0\07.TheV-Logger.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\07.TheV-Logger\obj\Debug\net6.0\07.TheV-Logger.AssemblyInfo.cs
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\07.TheV-Logger\obj\Debug\net6.0\07.TheV-Logger.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\07.TheV-Logger\obj\Debug\net6.0\07.TheV-Logger.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\07.TheV-Logger\obj\Debug\net6.0\ref\07.TheV-Logger.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\07.TheV-Logger\obj\Debug\net6.0\07.TheV-Logger.pdb
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\07.TheV-Logger\obj\Debug\net6.0\07.TheV-Logger.genruntimeconfig.cache

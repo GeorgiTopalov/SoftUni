@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\05.Snake Moves\bin\Debug\net6.0\05.Snake Moves.exe
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\05.Snake Moves\bin\Debug\net6.0\05.Snake Moves.deps.json
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\05.Snake Moves\bin\Debug\net6.0\05.Snake Moves.runtimeconfig.json
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\05.Snake Moves\bin\Debug\net6.0\05.Snake Moves.dll
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\05.Snake Moves\bin\Debug\net6.0\ref\05.Snake Moves.dll
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\05.Snake Moves\bin\Debug\net6.0\05.Snake Moves.pdb
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\05.Snake Moves\obj\Debug\net6.0\05.Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\05.Snake Moves\obj\Debug\net6.0\05.Snake Moves.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\05.Snake Moves\obj\Debug\net6.0\05.Snake Moves.AssemblyInfo.cs
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\05.Snake Moves\obj\Debug\net6.0\05.Snake Moves.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\05.Snake Moves\obj\Debug\net6.0\05.Snake Moves.dll
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\05.Snake Moves\obj\Debug\net6.0\ref\05.Snake Moves.dll
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\05.Snake Moves\obj\Debug\net6.0\05.Snake Moves.pdb
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\05.Snake Moves\obj\Debug\net6.0\05.Snake Moves.genruntimeconfig.cache
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\05.Snake Moves\obj\Debug\net6.0\05.Snake Moves.csproj.AssemblyReference.cache

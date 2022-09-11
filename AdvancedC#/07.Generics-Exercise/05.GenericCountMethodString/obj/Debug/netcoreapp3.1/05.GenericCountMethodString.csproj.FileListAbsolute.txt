@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Generics - Exercose\05.GenericCountMethodString\bin\Debug\netcoreapp3.1\05.GenericCountMethodString.exe
+C:\Projects\Contacts\Generics - Exercose\05.GenericCountMethodString\bin\Debug\netcoreapp3.1\05.GenericCountMethodString.deps.json
+C:\Projects\Contacts\Generics - Exercose\05.GenericCountMethodString\bin\Debug\netcoreapp3.1\05.GenericCountMethodString.runtimeconfig.json
+C:\Projects\Contacts\Generics - Exercose\05.GenericCountMethodString\bin\Debug\netcoreapp3.1\05.GenericCountMethodString.runtimeconfig.dev.json
+C:\Projects\Contacts\Generics - Exercose\05.GenericCountMethodString\bin\Debug\netcoreapp3.1\05.GenericCountMethodString.dll
+C:\Projects\Contacts\Generics - Exercose\05.GenericCountMethodString\bin\Debug\netcoreapp3.1\05.GenericCountMethodString.pdb
+C:\Projects\Contacts\Generics - Exercose\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Generics - Exercose\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Generics - Exercose\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Generics - Exercose\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.AssemblyInfo.cs
+C:\Projects\Contacts\Generics - Exercose\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Generics - Exercose\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.dll
+C:\Projects\Contacts\Generics - Exercose\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.pdb
+C:\Projects\Contacts\Generics - Exercose\05.GenericCountMethodString\obj\Debug\netcoreapp3.1\05.GenericCountMethodString.genruntimeconfig.cache

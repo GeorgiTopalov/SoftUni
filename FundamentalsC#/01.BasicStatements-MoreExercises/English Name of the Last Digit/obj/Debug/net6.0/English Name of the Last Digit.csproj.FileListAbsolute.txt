@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Basic Statements More Exercises\English Name of the Last Digit\bin\Debug\net6.0\English Name of the Last Digit.exe
+C:\Projects\Contacts\Basic Statements More Exercises\English Name of the Last Digit\bin\Debug\net6.0\English Name of the Last Digit.deps.json
+C:\Projects\Contacts\Basic Statements More Exercises\English Name of the Last Digit\bin\Debug\net6.0\English Name of the Last Digit.runtimeconfig.json
+C:\Projects\Contacts\Basic Statements More Exercises\English Name of the Last Digit\bin\Debug\net6.0\English Name of the Last Digit.dll
+C:\Projects\Contacts\Basic Statements More Exercises\English Name of the Last Digit\bin\Debug\net6.0\ref\English Name of the Last Digit.dll
+C:\Projects\Contacts\Basic Statements More Exercises\English Name of the Last Digit\bin\Debug\net6.0\English Name of the Last Digit.pdb
+C:\Projects\Contacts\Basic Statements More Exercises\English Name of the Last Digit\obj\Debug\net6.0\English Name of the Last Digit.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Basic Statements More Exercises\English Name of the Last Digit\obj\Debug\net6.0\English Name of the Last Digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Basic Statements More Exercises\English Name of the Last Digit\obj\Debug\net6.0\English Name of the Last Digit.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Basic Statements More Exercises\English Name of the Last Digit\obj\Debug\net6.0\English Name of the Last Digit.AssemblyInfo.cs
+C:\Projects\Contacts\Basic Statements More Exercises\English Name of the Last Digit\obj\Debug\net6.0\English Name of the Last Digit.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Basic Statements More Exercises\English Name of the Last Digit\obj\Debug\net6.0\English Name of the Last Digit.dll
+C:\Projects\Contacts\Basic Statements More Exercises\English Name of the Last Digit\obj\Debug\net6.0\ref\English Name of the Last Digit.dll
+C:\Projects\Contacts\Basic Statements More Exercises\English Name of the Last Digit\obj\Debug\net6.0\English Name of the Last Digit.pdb
+C:\Projects\Contacts\Basic Statements More Exercises\English Name of the Last Digit\obj\Debug\net6.0\English Name of the Last Digit.genruntimeconfig.cache

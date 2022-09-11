@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Fundamentals Exam Prep\05.Destination Mapper\bin\Debug\net6.0\05.Destination Mapper.exe
+C:\Projects\Contacts\Fundamentals Exam Prep\05.Destination Mapper\bin\Debug\net6.0\05.Destination Mapper.deps.json
+C:\Projects\Contacts\Fundamentals Exam Prep\05.Destination Mapper\bin\Debug\net6.0\05.Destination Mapper.runtimeconfig.json
+C:\Projects\Contacts\Fundamentals Exam Prep\05.Destination Mapper\bin\Debug\net6.0\05.Destination Mapper.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\05.Destination Mapper\bin\Debug\net6.0\ref\05.Destination Mapper.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\05.Destination Mapper\bin\Debug\net6.0\05.Destination Mapper.pdb
+C:\Projects\Contacts\Fundamentals Exam Prep\05.Destination Mapper\obj\Debug\net6.0\05.Destination Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Fundamentals Exam Prep\05.Destination Mapper\obj\Debug\net6.0\05.Destination Mapper.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Fundamentals Exam Prep\05.Destination Mapper\obj\Debug\net6.0\05.Destination Mapper.AssemblyInfo.cs
+C:\Projects\Contacts\Fundamentals Exam Prep\05.Destination Mapper\obj\Debug\net6.0\05.Destination Mapper.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Fundamentals Exam Prep\05.Destination Mapper\obj\Debug\net6.0\05.Destination Mapper.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\05.Destination Mapper\obj\Debug\net6.0\ref\05.Destination Mapper.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\05.Destination Mapper\obj\Debug\net6.0\05.Destination Mapper.pdb
+C:\Projects\Contacts\Fundamentals Exam Prep\05.Destination Mapper\obj\Debug\net6.0\05.Destination Mapper.genruntimeconfig.cache

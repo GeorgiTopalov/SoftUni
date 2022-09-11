@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Text Processing - Exercise\05.Multiply Big Number\bin\Debug\net6.0\05.Multiply Big Number.exe
+C:\Projects\Contacts\Text Processing - Exercise\05.Multiply Big Number\bin\Debug\net6.0\05.Multiply Big Number.deps.json
+C:\Projects\Contacts\Text Processing - Exercise\05.Multiply Big Number\bin\Debug\net6.0\05.Multiply Big Number.runtimeconfig.json
+C:\Projects\Contacts\Text Processing - Exercise\05.Multiply Big Number\bin\Debug\net6.0\05.Multiply Big Number.dll
+C:\Projects\Contacts\Text Processing - Exercise\05.Multiply Big Number\bin\Debug\net6.0\ref\05.Multiply Big Number.dll
+C:\Projects\Contacts\Text Processing - Exercise\05.Multiply Big Number\bin\Debug\net6.0\05.Multiply Big Number.pdb
+C:\Projects\Contacts\Text Processing - Exercise\05.Multiply Big Number\obj\Debug\net6.0\05.Multiply Big Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Text Processing - Exercise\05.Multiply Big Number\obj\Debug\net6.0\05.Multiply Big Number.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Text Processing - Exercise\05.Multiply Big Number\obj\Debug\net6.0\05.Multiply Big Number.AssemblyInfo.cs
+C:\Projects\Contacts\Text Processing - Exercise\05.Multiply Big Number\obj\Debug\net6.0\05.Multiply Big Number.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Text Processing - Exercise\05.Multiply Big Number\obj\Debug\net6.0\05.Multiply Big Number.dll
+C:\Projects\Contacts\Text Processing - Exercise\05.Multiply Big Number\obj\Debug\net6.0\ref\05.Multiply Big Number.dll
+C:\Projects\Contacts\Text Processing - Exercise\05.Multiply Big Number\obj\Debug\net6.0\05.Multiply Big Number.pdb
+C:\Projects\Contacts\Text Processing - Exercise\05.Multiply Big Number\obj\Debug\net6.0\05.Multiply Big Number.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Fundamentals Exam Prep\Fundamentals Exam Prep\bin\Debug\net6.0\Fundamentals Exam Prep.exe
+C:\Projects\Contacts\Fundamentals Exam Prep\Fundamentals Exam Prep\bin\Debug\net6.0\Fundamentals Exam Prep.deps.json
+C:\Projects\Contacts\Fundamentals Exam Prep\Fundamentals Exam Prep\bin\Debug\net6.0\Fundamentals Exam Prep.runtimeconfig.json
+C:\Projects\Contacts\Fundamentals Exam Prep\Fundamentals Exam Prep\bin\Debug\net6.0\Fundamentals Exam Prep.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\Fundamentals Exam Prep\bin\Debug\net6.0\ref\Fundamentals Exam Prep.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\Fundamentals Exam Prep\bin\Debug\net6.0\Fundamentals Exam Prep.pdb
+C:\Projects\Contacts\Fundamentals Exam Prep\Fundamentals Exam Prep\obj\Debug\net6.0\Fundamentals Exam Prep.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Fundamentals Exam Prep\Fundamentals Exam Prep\obj\Debug\net6.0\Fundamentals Exam Prep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Fundamentals Exam Prep\Fundamentals Exam Prep\obj\Debug\net6.0\Fundamentals Exam Prep.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Fundamentals Exam Prep\Fundamentals Exam Prep\obj\Debug\net6.0\Fundamentals Exam Prep.AssemblyInfo.cs
+C:\Projects\Contacts\Fundamentals Exam Prep\Fundamentals Exam Prep\obj\Debug\net6.0\Fundamentals Exam Prep.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Fundamentals Exam Prep\Fundamentals Exam Prep\obj\Debug\net6.0\Fundamentals Exam Prep.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\Fundamentals Exam Prep\obj\Debug\net6.0\ref\Fundamentals Exam Prep.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\Fundamentals Exam Prep\obj\Debug\net6.0\Fundamentals Exam Prep.pdb
+C:\Projects\Contacts\Fundamentals Exam Prep\Fundamentals Exam Prep\obj\Debug\net6.0\Fundamentals Exam Prep.genruntimeconfig.cache

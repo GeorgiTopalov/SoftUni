@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Generics - Exercose\07.Tuple\bin\Debug\netcoreapp3.1\07.Tuple.exe
+C:\Projects\Contacts\Generics - Exercose\07.Tuple\bin\Debug\netcoreapp3.1\07.Tuple.deps.json
+C:\Projects\Contacts\Generics - Exercose\07.Tuple\bin\Debug\netcoreapp3.1\07.Tuple.runtimeconfig.json
+C:\Projects\Contacts\Generics - Exercose\07.Tuple\bin\Debug\netcoreapp3.1\07.Tuple.runtimeconfig.dev.json
+C:\Projects\Contacts\Generics - Exercose\07.Tuple\bin\Debug\netcoreapp3.1\07.Tuple.dll
+C:\Projects\Contacts\Generics - Exercose\07.Tuple\bin\Debug\netcoreapp3.1\07.Tuple.pdb
+C:\Projects\Contacts\Generics - Exercose\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Generics - Exercose\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Generics - Exercose\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Generics - Exercose\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.AssemblyInfo.cs
+C:\Projects\Contacts\Generics - Exercose\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Generics - Exercose\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.dll
+C:\Projects\Contacts\Generics - Exercose\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.pdb
+C:\Projects\Contacts\Generics - Exercose\07.Tuple\obj\Debug\netcoreapp3.1\07.Tuple.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.exe
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.deps.json
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.json
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.dev.json
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfo.cs
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.genruntimeconfig.cache

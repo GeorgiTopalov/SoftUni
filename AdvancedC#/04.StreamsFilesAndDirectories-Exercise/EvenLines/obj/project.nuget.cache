@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oUk4a1UuzGg7Vjj32ORRFB6E0PajtR4DBUh0fCaAiY/i3+YT4goi0q7tf4KxKsL1mVRe7O8DWHu4JbjpJ/wZNA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Contacts\\Streams,Files and Directories - Exercise\\EvenLines\\EvenLines.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gstop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

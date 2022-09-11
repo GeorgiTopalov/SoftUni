@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Fundamentals - Regular Exam\Fundamentals - Regular Exam\bin\Debug\netcoreapp3.1\01.StringManipulation.exe
+C:\Projects\Contacts\Fundamentals - Regular Exam\Fundamentals - Regular Exam\bin\Debug\netcoreapp3.1\01.StringManipulation.deps.json
+C:\Projects\Contacts\Fundamentals - Regular Exam\Fundamentals - Regular Exam\bin\Debug\netcoreapp3.1\01.StringManipulation.runtimeconfig.json
+C:\Projects\Contacts\Fundamentals - Regular Exam\Fundamentals - Regular Exam\bin\Debug\netcoreapp3.1\01.StringManipulation.runtimeconfig.dev.json
+C:\Projects\Contacts\Fundamentals - Regular Exam\Fundamentals - Regular Exam\bin\Debug\netcoreapp3.1\01.StringManipulation.dll
+C:\Projects\Contacts\Fundamentals - Regular Exam\Fundamentals - Regular Exam\bin\Debug\netcoreapp3.1\01.StringManipulation.pdb
+C:\Projects\Contacts\Fundamentals - Regular Exam\Fundamentals - Regular Exam\obj\Debug\netcoreapp3.1\01.StringManipulation.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Fundamentals - Regular Exam\Fundamentals - Regular Exam\obj\Debug\netcoreapp3.1\01.StringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Fundamentals - Regular Exam\Fundamentals - Regular Exam\obj\Debug\netcoreapp3.1\01.StringManipulation.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Fundamentals - Regular Exam\Fundamentals - Regular Exam\obj\Debug\netcoreapp3.1\01.StringManipulation.AssemblyInfo.cs
+C:\Projects\Contacts\Fundamentals - Regular Exam\Fundamentals - Regular Exam\obj\Debug\netcoreapp3.1\01.StringManipulation.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Fundamentals - Regular Exam\Fundamentals - Regular Exam\obj\Debug\netcoreapp3.1\01.StringManipulation.dll
+C:\Projects\Contacts\Fundamentals - Regular Exam\Fundamentals - Regular Exam\obj\Debug\netcoreapp3.1\01.StringManipulation.pdb
+C:\Projects\Contacts\Fundamentals - Regular Exam\Fundamentals - Regular Exam\obj\Debug\netcoreapp3.1\01.StringManipulation.genruntimeconfig.cache

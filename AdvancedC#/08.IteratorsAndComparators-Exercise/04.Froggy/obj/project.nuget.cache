@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C65UdLaB7WHT7oN689ZLQD/KG9omihN5VEEyH5rj4UFT6lqHIA46wtL4AQjOUqG6tYvnhgTpVp/QkzHSuIfeMw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Contacts\\IteratorsAndComparators - Exercise\\04.Froggy\\04.Froggy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gstop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

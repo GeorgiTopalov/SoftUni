@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Advanced Exam Prep\04.MealPlan\bin\Debug\netcoreapp3.1\04.MealPlan.exe
+C:\Projects\Contacts\Advanced Exam Prep\04.MealPlan\bin\Debug\netcoreapp3.1\04.MealPlan.deps.json
+C:\Projects\Contacts\Advanced Exam Prep\04.MealPlan\bin\Debug\netcoreapp3.1\04.MealPlan.runtimeconfig.json
+C:\Projects\Contacts\Advanced Exam Prep\04.MealPlan\bin\Debug\netcoreapp3.1\04.MealPlan.runtimeconfig.dev.json
+C:\Projects\Contacts\Advanced Exam Prep\04.MealPlan\bin\Debug\netcoreapp3.1\04.MealPlan.dll
+C:\Projects\Contacts\Advanced Exam Prep\04.MealPlan\bin\Debug\netcoreapp3.1\04.MealPlan.pdb
+C:\Projects\Contacts\Advanced Exam Prep\04.MealPlan\obj\Debug\netcoreapp3.1\04.MealPlan.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Advanced Exam Prep\04.MealPlan\obj\Debug\netcoreapp3.1\04.MealPlan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Advanced Exam Prep\04.MealPlan\obj\Debug\netcoreapp3.1\04.MealPlan.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Advanced Exam Prep\04.MealPlan\obj\Debug\netcoreapp3.1\04.MealPlan.AssemblyInfo.cs
+C:\Projects\Contacts\Advanced Exam Prep\04.MealPlan\obj\Debug\netcoreapp3.1\04.MealPlan.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Advanced Exam Prep\04.MealPlan\obj\Debug\netcoreapp3.1\04.MealPlan.dll
+C:\Projects\Contacts\Advanced Exam Prep\04.MealPlan\obj\Debug\netcoreapp3.1\04.MealPlan.pdb
+C:\Projects\Contacts\Advanced Exam Prep\04.MealPlan\obj\Debug\netcoreapp3.1\04.MealPlan.genruntimeconfig.cache

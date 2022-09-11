@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Stack and Queue - Exercise\02.BasicQueueOperations\bin\Debug\net6.0\02.BasicQueueOperations.exe
+C:\Projects\Contacts\Stack and Queue - Exercise\02.BasicQueueOperations\bin\Debug\net6.0\02.BasicQueueOperations.deps.json
+C:\Projects\Contacts\Stack and Queue - Exercise\02.BasicQueueOperations\bin\Debug\net6.0\02.BasicQueueOperations.runtimeconfig.json
+C:\Projects\Contacts\Stack and Queue - Exercise\02.BasicQueueOperations\bin\Debug\net6.0\02.BasicQueueOperations.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\02.BasicQueueOperations\bin\Debug\net6.0\ref\02.BasicQueueOperations.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\02.BasicQueueOperations\bin\Debug\net6.0\02.BasicQueueOperations.pdb
+C:\Projects\Contacts\Stack and Queue - Exercise\02.BasicQueueOperations\obj\Debug\net6.0\02.BasicQueueOperations.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Stack and Queue - Exercise\02.BasicQueueOperations\obj\Debug\net6.0\02.BasicQueueOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Stack and Queue - Exercise\02.BasicQueueOperations\obj\Debug\net6.0\02.BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Stack and Queue - Exercise\02.BasicQueueOperations\obj\Debug\net6.0\02.BasicQueueOperations.AssemblyInfo.cs
+C:\Projects\Contacts\Stack and Queue - Exercise\02.BasicQueueOperations\obj\Debug\net6.0\02.BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Stack and Queue - Exercise\02.BasicQueueOperations\obj\Debug\net6.0\02.BasicQueueOperations.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\02.BasicQueueOperations\obj\Debug\net6.0\ref\02.BasicQueueOperations.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\02.BasicQueueOperations\obj\Debug\net6.0\02.BasicQueueOperations.pdb
+C:\Projects\Contacts\Stack and Queue - Exercise\02.BasicQueueOperations\obj\Debug\net6.0\02.BasicQueueOperations.genruntimeconfig.cache

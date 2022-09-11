@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Train\Train\obj\Debug\net6.0\Train.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Train\Train\obj\Debug\net6.0\Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Train\Train\obj\Debug\net6.0\Train.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Train\Train\obj\Debug\net6.0\Train.AssemblyInfo.cs
+C:\Projects\Contacts\Train\Train\obj\Debug\net6.0\Train.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Train\Train\bin\Debug\net6.0\Train.exe
+C:\Projects\Contacts\Train\Train\bin\Debug\net6.0\Train.deps.json
+C:\Projects\Contacts\Train\Train\bin\Debug\net6.0\Train.runtimeconfig.json
+C:\Projects\Contacts\Train\Train\bin\Debug\net6.0\Train.dll
+C:\Projects\Contacts\Train\Train\bin\Debug\net6.0\ref\Train.dll
+C:\Projects\Contacts\Train\Train\bin\Debug\net6.0\Train.pdb
+C:\Projects\Contacts\Train\Train\obj\Debug\net6.0\Train.dll
+C:\Projects\Contacts\Train\Train\obj\Debug\net6.0\ref\Train.dll
+C:\Projects\Contacts\Train\Train\obj\Debug\net6.0\Train.pdb
+C:\Projects\Contacts\Train\Train\obj\Debug\net6.0\Train.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Advanced Exam Prep\03.FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Advanced Exam Prep\03.FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Advanced Exam Prep\03.FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.AssemblyInfo.cs
+C:\Projects\Contacts\Advanced Exam Prep\03.FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Advanced Exam Prep\03.FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.exe
+C:\Projects\Contacts\Advanced Exam Prep\03.FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.deps.json
+C:\Projects\Contacts\Advanced Exam Prep\03.FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.runtimeconfig.json
+C:\Projects\Contacts\Advanced Exam Prep\03.FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.runtimeconfig.dev.json
+C:\Projects\Contacts\Advanced Exam Prep\03.FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.dll
+C:\Projects\Contacts\Advanced Exam Prep\03.FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.pdb
+C:\Projects\Contacts\Advanced Exam Prep\03.FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Advanced Exam Prep\03.FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.dll
+C:\Projects\Contacts\Advanced Exam Prep\03.FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.pdb
+C:\Projects\Contacts\Advanced Exam Prep\03.FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.genruntimeconfig.cache

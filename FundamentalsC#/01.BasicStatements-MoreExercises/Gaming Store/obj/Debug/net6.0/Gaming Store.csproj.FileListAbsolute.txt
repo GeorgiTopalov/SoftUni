@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Basic Statements More Exercises\Gaming Store\bin\Debug\net6.0\Gaming Store.exe
+C:\Projects\Contacts\Basic Statements More Exercises\Gaming Store\bin\Debug\net6.0\Gaming Store.deps.json
+C:\Projects\Contacts\Basic Statements More Exercises\Gaming Store\bin\Debug\net6.0\Gaming Store.runtimeconfig.json
+C:\Projects\Contacts\Basic Statements More Exercises\Gaming Store\bin\Debug\net6.0\Gaming Store.dll
+C:\Projects\Contacts\Basic Statements More Exercises\Gaming Store\bin\Debug\net6.0\ref\Gaming Store.dll
+C:\Projects\Contacts\Basic Statements More Exercises\Gaming Store\bin\Debug\net6.0\Gaming Store.pdb
+C:\Projects\Contacts\Basic Statements More Exercises\Gaming Store\obj\Debug\net6.0\Gaming Store.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Basic Statements More Exercises\Gaming Store\obj\Debug\net6.0\Gaming Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Basic Statements More Exercises\Gaming Store\obj\Debug\net6.0\Gaming Store.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Basic Statements More Exercises\Gaming Store\obj\Debug\net6.0\Gaming Store.AssemblyInfo.cs
+C:\Projects\Contacts\Basic Statements More Exercises\Gaming Store\obj\Debug\net6.0\Gaming Store.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Basic Statements More Exercises\Gaming Store\obj\Debug\net6.0\Gaming Store.dll
+C:\Projects\Contacts\Basic Statements More Exercises\Gaming Store\obj\Debug\net6.0\ref\Gaming Store.dll
+C:\Projects\Contacts\Basic Statements More Exercises\Gaming Store\obj\Debug\net6.0\Gaming Store.pdb
+C:\Projects\Contacts\Basic Statements More Exercises\Gaming Store\obj\Debug\net6.0\Gaming Store.genruntimeconfig.cache

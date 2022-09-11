@@ -1,0 +1,5 @@
+C:\Projects\Contacts\Arrays More Exercise\Pascal Triangle\obj\Debug\net6.0\Pascal Triangle.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Arrays More Exercise\Pascal Triangle\obj\Debug\net6.0\Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Arrays More Exercise\Pascal Triangle\obj\Debug\net6.0\Pascal Triangle.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Arrays More Exercise\Pascal Triangle\obj\Debug\net6.0\Pascal Triangle.AssemblyInfo.cs
+C:\Projects\Contacts\Arrays More Exercise\Pascal Triangle\obj\Debug\net6.0\Pascal Triangle.csproj.CoreCompileInputs.cache

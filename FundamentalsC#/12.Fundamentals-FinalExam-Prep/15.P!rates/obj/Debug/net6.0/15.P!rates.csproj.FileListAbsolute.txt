@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Fundamentals Exam Prep\15.P!rates\bin\Debug\net6.0\15.P!rates.exe
+C:\Projects\Contacts\Fundamentals Exam Prep\15.P!rates\bin\Debug\net6.0\15.P!rates.deps.json
+C:\Projects\Contacts\Fundamentals Exam Prep\15.P!rates\bin\Debug\net6.0\15.P!rates.runtimeconfig.json
+C:\Projects\Contacts\Fundamentals Exam Prep\15.P!rates\bin\Debug\net6.0\15.P!rates.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\15.P!rates\bin\Debug\net6.0\ref\15.P!rates.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\15.P!rates\bin\Debug\net6.0\15.P!rates.pdb
+C:\Projects\Contacts\Fundamentals Exam Prep\15.P!rates\obj\Debug\net6.0\15.P!rates.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Fundamentals Exam Prep\15.P!rates\obj\Debug\net6.0\15.P!rates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Fundamentals Exam Prep\15.P!rates\obj\Debug\net6.0\15.P!rates.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Fundamentals Exam Prep\15.P!rates\obj\Debug\net6.0\15.P!rates.AssemblyInfo.cs
+C:\Projects\Contacts\Fundamentals Exam Prep\15.P!rates\obj\Debug\net6.0\15.P!rates.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Fundamentals Exam Prep\15.P!rates\obj\Debug\net6.0\15.P!rates.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\15.P!rates\obj\Debug\net6.0\ref\15.P!rates.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\15.P!rates\obj\Debug\net6.0\15.P!rates.pdb
+C:\Projects\Contacts\Fundamentals Exam Prep\15.P!rates\obj\Debug\net6.0\15.P!rates.genruntimeconfig.cache

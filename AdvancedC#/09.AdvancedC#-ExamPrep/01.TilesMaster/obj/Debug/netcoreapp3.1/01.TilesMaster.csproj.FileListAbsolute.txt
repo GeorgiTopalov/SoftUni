@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Advanced Exam Prep\01.TilesMaster\bin\Debug\netcoreapp3.1\01.TilesMaster.exe
+C:\Projects\Contacts\Advanced Exam Prep\01.TilesMaster\bin\Debug\netcoreapp3.1\01.TilesMaster.deps.json
+C:\Projects\Contacts\Advanced Exam Prep\01.TilesMaster\bin\Debug\netcoreapp3.1\01.TilesMaster.runtimeconfig.json
+C:\Projects\Contacts\Advanced Exam Prep\01.TilesMaster\bin\Debug\netcoreapp3.1\01.TilesMaster.runtimeconfig.dev.json
+C:\Projects\Contacts\Advanced Exam Prep\01.TilesMaster\bin\Debug\netcoreapp3.1\01.TilesMaster.dll
+C:\Projects\Contacts\Advanced Exam Prep\01.TilesMaster\bin\Debug\netcoreapp3.1\01.TilesMaster.pdb
+C:\Projects\Contacts\Advanced Exam Prep\01.TilesMaster\obj\Debug\netcoreapp3.1\01.TilesMaster.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Advanced Exam Prep\01.TilesMaster\obj\Debug\netcoreapp3.1\01.TilesMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Advanced Exam Prep\01.TilesMaster\obj\Debug\netcoreapp3.1\01.TilesMaster.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Advanced Exam Prep\01.TilesMaster\obj\Debug\netcoreapp3.1\01.TilesMaster.AssemblyInfo.cs
+C:\Projects\Contacts\Advanced Exam Prep\01.TilesMaster\obj\Debug\netcoreapp3.1\01.TilesMaster.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Advanced Exam Prep\01.TilesMaster\obj\Debug\netcoreapp3.1\01.TilesMaster.dll
+C:\Projects\Contacts\Advanced Exam Prep\01.TilesMaster\obj\Debug\netcoreapp3.1\01.TilesMaster.pdb
+C:\Projects\Contacts\Advanced Exam Prep\01.TilesMaster\obj\Debug\netcoreapp3.1\01.TilesMaster.genruntimeconfig.cache

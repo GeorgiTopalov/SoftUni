@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\06.Jagged Array Manipulator\bin\Debug\net6.0\06.Jagged Array Manipulator.exe
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\06.Jagged Array Manipulator\bin\Debug\net6.0\06.Jagged Array Manipulator.deps.json
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\06.Jagged Array Manipulator\bin\Debug\net6.0\06.Jagged Array Manipulator.runtimeconfig.json
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\06.Jagged Array Manipulator\bin\Debug\net6.0\06.Jagged Array Manipulator.dll
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\06.Jagged Array Manipulator\bin\Debug\net6.0\ref\06.Jagged Array Manipulator.dll
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\06.Jagged Array Manipulator\bin\Debug\net6.0\06.Jagged Array Manipulator.pdb
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\06.Jagged Array Manipulator\obj\Debug\net6.0\06.Jagged Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\06.Jagged Array Manipulator\obj\Debug\net6.0\06.Jagged Array Manipulator.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\06.Jagged Array Manipulator\obj\Debug\net6.0\06.Jagged Array Manipulator.AssemblyInfo.cs
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\06.Jagged Array Manipulator\obj\Debug\net6.0\06.Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\06.Jagged Array Manipulator\obj\Debug\net6.0\06.Jagged Array Manipulator.dll
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\06.Jagged Array Manipulator\obj\Debug\net6.0\ref\06.Jagged Array Manipulator.dll
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\06.Jagged Array Manipulator\obj\Debug\net6.0\06.Jagged Array Manipulator.pdb
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\06.Jagged Array Manipulator\obj\Debug\net6.0\06.Jagged Array Manipulator.genruntimeconfig.cache

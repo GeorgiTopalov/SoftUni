@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Fundamentals Exam Prep\03.Plant Discovery\bin\Debug\net6.0\03.Plant Discovery.exe
+C:\Projects\Contacts\Fundamentals Exam Prep\03.Plant Discovery\bin\Debug\net6.0\03.Plant Discovery.deps.json
+C:\Projects\Contacts\Fundamentals Exam Prep\03.Plant Discovery\bin\Debug\net6.0\03.Plant Discovery.runtimeconfig.json
+C:\Projects\Contacts\Fundamentals Exam Prep\03.Plant Discovery\bin\Debug\net6.0\03.Plant Discovery.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\03.Plant Discovery\bin\Debug\net6.0\ref\03.Plant Discovery.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\03.Plant Discovery\bin\Debug\net6.0\03.Plant Discovery.pdb
+C:\Projects\Contacts\Fundamentals Exam Prep\03.Plant Discovery\obj\Debug\net6.0\03.Plant Discovery.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Fundamentals Exam Prep\03.Plant Discovery\obj\Debug\net6.0\03.Plant Discovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Fundamentals Exam Prep\03.Plant Discovery\obj\Debug\net6.0\03.Plant Discovery.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Fundamentals Exam Prep\03.Plant Discovery\obj\Debug\net6.0\03.Plant Discovery.AssemblyInfo.cs
+C:\Projects\Contacts\Fundamentals Exam Prep\03.Plant Discovery\obj\Debug\net6.0\03.Plant Discovery.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Fundamentals Exam Prep\03.Plant Discovery\obj\Debug\net6.0\03.Plant Discovery.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\03.Plant Discovery\obj\Debug\net6.0\ref\03.Plant Discovery.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\03.Plant Discovery\obj\Debug\net6.0\03.Plant Discovery.pdb
+C:\Projects\Contacts\Fundamentals Exam Prep\03.Plant Discovery\obj\Debug\net6.0\03.Plant Discovery.genruntimeconfig.cache

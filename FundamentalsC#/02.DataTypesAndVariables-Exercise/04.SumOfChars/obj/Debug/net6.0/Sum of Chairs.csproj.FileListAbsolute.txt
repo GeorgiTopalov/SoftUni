@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Sum of Chairs\Sum of Chairs\bin\Debug\net6.0\Sum of Chairs.exe
+C:\Projects\Contacts\Sum of Chairs\Sum of Chairs\bin\Debug\net6.0\Sum of Chairs.deps.json
+C:\Projects\Contacts\Sum of Chairs\Sum of Chairs\bin\Debug\net6.0\Sum of Chairs.runtimeconfig.json
+C:\Projects\Contacts\Sum of Chairs\Sum of Chairs\bin\Debug\net6.0\Sum of Chairs.dll
+C:\Projects\Contacts\Sum of Chairs\Sum of Chairs\bin\Debug\net6.0\ref\Sum of Chairs.dll
+C:\Projects\Contacts\Sum of Chairs\Sum of Chairs\bin\Debug\net6.0\Sum of Chairs.pdb
+C:\Projects\Contacts\Sum of Chairs\Sum of Chairs\obj\Debug\net6.0\Sum of Chairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Sum of Chairs\Sum of Chairs\obj\Debug\net6.0\Sum of Chairs.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Sum of Chairs\Sum of Chairs\obj\Debug\net6.0\Sum of Chairs.AssemblyInfo.cs
+C:\Projects\Contacts\Sum of Chairs\Sum of Chairs\obj\Debug\net6.0\Sum of Chairs.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Sum of Chairs\Sum of Chairs\obj\Debug\net6.0\Sum of Chairs.dll
+C:\Projects\Contacts\Sum of Chairs\Sum of Chairs\obj\Debug\net6.0\ref\Sum of Chairs.dll
+C:\Projects\Contacts\Sum of Chairs\Sum of Chairs\obj\Debug\net6.0\Sum of Chairs.pdb
+C:\Projects\Contacts\Sum of Chairs\Sum of Chairs\obj\Debug\net6.0\Sum of Chairs.genruntimeconfig.cache

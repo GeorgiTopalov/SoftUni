@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f54e507a-66b7-4c06-96b6-9d3ee62bd814": {
+      "ProjectGuid": "f54e507a-66b7-4c06-96b6-9d3ee62bd814",
+      "DisplayName": "01.ActionPrint",
+      "ColorIndex": 0
+    },
+    "bb7b5d92-2b5f-4f9c-811f-f10edd285154": {
+      "ProjectGuid": "bb7b5d92-2b5f-4f9c-811f-f10edd285154",
+      "DisplayName": "02.KnightsOfHonor",
+      "ColorIndex": 1
+    },
+    "134a9b9b-5dc8-4381-8025-464e30e0262d": {
+      "ProjectGuid": "134a9b9b-5dc8-4381-8025-464e30e0262d",
+      "DisplayName": "03.CustomMinFunction",
+      "ColorIndex": 2
+    },
+    "49ff563e-5b11-4f29-96db-3b0810b77fc8": {
+      "ProjectGuid": "49ff563e-5b11-4f29-96db-3b0810b77fc8",
+      "DisplayName": "04.FindEvensOrOdds",
+      "ColorIndex": 3
+    },
+    "c412443c-8152-4e7f-a5dd-8ec38893aa0a": {
+      "ProjectGuid": "c412443c-8152-4e7f-a5dd-8ec38893aa0a",
+      "DisplayName": "05.AppliedArithmetics",
+      "ColorIndex": 4
+    },
+    "b03f29e2-f9e8-409f-820b-0f2bbaf688eb": {
+      "ProjectGuid": "b03f29e2-f9e8-409f-820b-0f2bbaf688eb",
+      "DisplayName": "06.ReverseAndExclude",
+      "ColorIndex": 5
+    },
+    "4c63fb22-9d92-48d6-91d3-cd6bdaf95ce2": {
+      "ProjectGuid": "4c63fb22-9d92-48d6-91d3-cd6bdaf95ce2",
+      "DisplayName": "07.PredicateForName",
+      "ColorIndex": 6
+    },
+    "f192bfa8-a983-4fb1-9c7c-7047765b5c93": {
+      "ProjectGuid": "f192bfa8-a983-4fb1-9c7c-7047765b5c93",
+      "DisplayName": "08.ListOfPredicates",
+      "ColorIndex": 7
+    },
+    "5d04a6b4-a9e8-4f8b-aeea-52983149a13e": {
+      "ProjectGuid": "5d04a6b4-a9e8-4f8b-aeea-52983149a13e",
+      "DisplayName": "09.PredicateParty",
+      "ColorIndex": 8
+    },
+    "1fe0e02e-b91f-44b7-8509-4582266c13c0": {
+      "ProjectGuid": "1fe0e02e-b91f-44b7-8509-4582266c13c0",
+      "DisplayName": "10.PartyReservationFilterModule",
+      "ColorIndex": 9
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 10
+}

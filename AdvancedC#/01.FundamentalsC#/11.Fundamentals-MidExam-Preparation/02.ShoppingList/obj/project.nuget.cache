@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xgVWZo+jCCPYB2mYt8wGw5hQHdVtkhvGkBTbDpt1kB1tQLqdWeOrhSRigun7bvkMzHn5ux2PHtHy4Hk4fcewNA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Contacts\\11.Fundamentals-MidExam-Preparation\\02.ShoppingList\\02.ShoppingList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gstop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

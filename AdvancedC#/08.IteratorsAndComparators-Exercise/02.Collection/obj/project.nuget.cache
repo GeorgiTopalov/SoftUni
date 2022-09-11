@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j3m+qpF4pcCo19pt9wrQs085UkUYHQ9m523g1zh4C3q8hwIgcFk+nWfCcY0BGGyUZx/iEQZEsKks7k1tzRp9Sg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Contacts\\IteratorsAndComparators - Exercise\\02.Collection\\02.Collection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gstop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

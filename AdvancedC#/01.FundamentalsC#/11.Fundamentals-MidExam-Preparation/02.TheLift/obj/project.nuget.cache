@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eDXr269BfEmpktMgze73XJdOHfwxWAGVxXpAeoy3ABUhSfojsDUxPV9BuF9PN1IpJYgTZ/MCaHAMsT05F9ywCw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Contacts\\11.Fundamentals-MidExam-Preparation\\02.TheLift\\02.TheLift.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gstop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Projects\Contacts\ListsExercise\ConsoleApp2\bin\Debug\net6.0\List Operations.exe
+C:\Projects\Contacts\ListsExercise\ConsoleApp2\bin\Debug\net6.0\List Operations.deps.json
+C:\Projects\Contacts\ListsExercise\ConsoleApp2\bin\Debug\net6.0\List Operations.runtimeconfig.json
+C:\Projects\Contacts\ListsExercise\ConsoleApp2\bin\Debug\net6.0\List Operations.dll
+C:\Projects\Contacts\ListsExercise\ConsoleApp2\bin\Debug\net6.0\ref\List Operations.dll
+C:\Projects\Contacts\ListsExercise\ConsoleApp2\bin\Debug\net6.0\List Operations.pdb
+C:\Projects\Contacts\ListsExercise\ConsoleApp2\obj\Debug\net6.0\List Operations.csproj.AssemblyReference.cache
+C:\Projects\Contacts\ListsExercise\ConsoleApp2\obj\Debug\net6.0\List Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\ListsExercise\ConsoleApp2\obj\Debug\net6.0\List Operations.AssemblyInfoInputs.cache
+C:\Projects\Contacts\ListsExercise\ConsoleApp2\obj\Debug\net6.0\List Operations.AssemblyInfo.cs
+C:\Projects\Contacts\ListsExercise\ConsoleApp2\obj\Debug\net6.0\List Operations.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\ListsExercise\ConsoleApp2\obj\Debug\net6.0\List Operations.dll
+C:\Projects\Contacts\ListsExercise\ConsoleApp2\obj\Debug\net6.0\ref\List Operations.dll
+C:\Projects\Contacts\ListsExercise\ConsoleApp2\obj\Debug\net6.0\List Operations.pdb
+C:\Projects\Contacts\ListsExercise\ConsoleApp2\obj\Debug\net6.0\List Operations.genruntimeconfig.cache

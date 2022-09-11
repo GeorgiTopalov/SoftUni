@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uCKX8Y0Gk8CkVx/iFcZri5WUWHYxOJAhQpU/MwP7j5F+nGcoQa4VVqvnMKz2IX078ykogW6mUKPqVozonAnb1g==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Contacts\\11.Fundamentals-MidExam-Preparation\\01.ComputerStore\\01.ComputerStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gstop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

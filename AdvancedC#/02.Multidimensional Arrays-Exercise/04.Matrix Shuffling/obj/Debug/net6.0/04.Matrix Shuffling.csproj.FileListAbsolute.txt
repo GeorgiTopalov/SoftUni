@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\04.Matrix Shuffling\bin\Debug\net6.0\04.Matrix Shuffling.exe
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\04.Matrix Shuffling\bin\Debug\net6.0\04.Matrix Shuffling.deps.json
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\04.Matrix Shuffling\bin\Debug\net6.0\04.Matrix Shuffling.runtimeconfig.json
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\04.Matrix Shuffling\bin\Debug\net6.0\04.Matrix Shuffling.dll
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\04.Matrix Shuffling\bin\Debug\net6.0\ref\04.Matrix Shuffling.dll
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\04.Matrix Shuffling\bin\Debug\net6.0\04.Matrix Shuffling.pdb
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\04.Matrix Shuffling\obj\Debug\net6.0\04.Matrix Shuffling.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\04.Matrix Shuffling\obj\Debug\net6.0\04.Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\04.Matrix Shuffling\obj\Debug\net6.0\04.Matrix Shuffling.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\04.Matrix Shuffling\obj\Debug\net6.0\04.Matrix Shuffling.AssemblyInfo.cs
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\04.Matrix Shuffling\obj\Debug\net6.0\04.Matrix Shuffling.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\04.Matrix Shuffling\obj\Debug\net6.0\04.Matrix Shuffling.dll
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\04.Matrix Shuffling\obj\Debug\net6.0\ref\04.Matrix Shuffling.dll
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\04.Matrix Shuffling\obj\Debug\net6.0\04.Matrix Shuffling.pdb
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\04.Matrix Shuffling\obj\Debug\net6.0\04.Matrix Shuffling.genruntimeconfig.cache

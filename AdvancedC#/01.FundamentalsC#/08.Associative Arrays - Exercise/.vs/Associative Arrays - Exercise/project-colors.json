@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cd0b0409-4706-42b6-9905-37d55c92118e": {
+      "ProjectGuid": "cd0b0409-4706-42b6-9905-37d55c92118e",
+      "DisplayName": "01.Count Chars in a String",
+      "ColorIndex": 0
+    },
+    "8a7bee0a-16df-45f0-81cf-3adf5d0750ba": {
+      "ProjectGuid": "8a7bee0a-16df-45f0-81cf-3adf5d0750ba",
+      "DisplayName": "02.A Miner Task",
+      "ColorIndex": 1
+    },
+    "bd160ffa-1b8e-41fc-a97e-45e9b15d35fd": {
+      "ProjectGuid": "bd160ffa-1b8e-41fc-a97e-45e9b15d35fd",
+      "DisplayName": "03.Legendary Farming",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "60bcbbc4-b8d1-4c94-aedb-6c1069ff6327": {
+      "ProjectGuid": "60bcbbc4-b8d1-4c94-aedb-6c1069ff6327",
+      "DisplayName": "04.Orders",
+      "ColorIndex": 3
+    },
+    "d71cb366-36b1-4af3-b762-d074ba57f1dd": {
+      "ProjectGuid": "d71cb366-36b1-4af3-b762-d074ba57f1dd",
+      "DisplayName": "05.SoftUni Parking",
+      "ColorIndex": 4
+    },
+    "84a65024-b246-45f2-a467-6dabbda38bde": {
+      "ProjectGuid": "84a65024-b246-45f2-a467-6dabbda38bde",
+      "DisplayName": "06.Courses",
+      "ColorIndex": 5
+    },
+    "9b5d4c21-3768-4f7e-82fb-5b4da89d24e3": {
+      "ProjectGuid": "9b5d4c21-3768-4f7e-82fb-5b4da89d24e3",
+      "DisplayName": "07.Student Academy",
+      "ColorIndex": 6
+    },
+    "cccd13ce-42ec-4526-889e-e7cfa339d1f2": {
+      "ProjectGuid": "cccd13ce-42ec-4526-889e-e7cfa339d1f2",
+      "DisplayName": "08.Company Users",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

@@ -1,0 +1,14 @@
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.exe
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.deps.json
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.runtimeconfig.json
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.runtimeconfig.dev.json
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.dll
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\05.ComparingObjects\bin\Debug\netcoreapp3.1\05.ComparingObjects.pdb
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.csproj.AssemblyReference.cache
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.AssemblyInfoInputs.cache
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.AssemblyInfo.cs
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.dll
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.pdb
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\05.ComparingObjects\obj\Debug\netcoreapp3.1\05.ComparingObjects.genruntimeconfig.cache

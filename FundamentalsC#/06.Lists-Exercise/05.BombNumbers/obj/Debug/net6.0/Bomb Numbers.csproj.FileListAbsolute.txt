@@ -1,0 +1,15 @@
+C:\Projects\Contacts\ListsExercise\ConsoleApp3\bin\Debug\net6.0\Bomb Numbers.exe
+C:\Projects\Contacts\ListsExercise\ConsoleApp3\bin\Debug\net6.0\Bomb Numbers.deps.json
+C:\Projects\Contacts\ListsExercise\ConsoleApp3\bin\Debug\net6.0\Bomb Numbers.runtimeconfig.json
+C:\Projects\Contacts\ListsExercise\ConsoleApp3\bin\Debug\net6.0\Bomb Numbers.dll
+C:\Projects\Contacts\ListsExercise\ConsoleApp3\bin\Debug\net6.0\ref\Bomb Numbers.dll
+C:\Projects\Contacts\ListsExercise\ConsoleApp3\bin\Debug\net6.0\Bomb Numbers.pdb
+C:\Projects\Contacts\ListsExercise\ConsoleApp3\obj\Debug\net6.0\Bomb Numbers.csproj.AssemblyReference.cache
+C:\Projects\Contacts\ListsExercise\ConsoleApp3\obj\Debug\net6.0\Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\ListsExercise\ConsoleApp3\obj\Debug\net6.0\Bomb Numbers.AssemblyInfoInputs.cache
+C:\Projects\Contacts\ListsExercise\ConsoleApp3\obj\Debug\net6.0\Bomb Numbers.AssemblyInfo.cs
+C:\Projects\Contacts\ListsExercise\ConsoleApp3\obj\Debug\net6.0\Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\ListsExercise\ConsoleApp3\obj\Debug\net6.0\Bomb Numbers.dll
+C:\Projects\Contacts\ListsExercise\ConsoleApp3\obj\Debug\net6.0\ref\Bomb Numbers.dll
+C:\Projects\Contacts\ListsExercise\ConsoleApp3\obj\Debug\net6.0\Bomb Numbers.pdb
+C:\Projects\Contacts\ListsExercise\ConsoleApp3\obj\Debug\net6.0\Bomb Numbers.genruntimeconfig.cache

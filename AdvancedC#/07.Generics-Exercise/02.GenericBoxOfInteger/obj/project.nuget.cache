@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5aXco50ZGbo8zY4T51tEZ6D3XstdDGG03yYnzJUm/5yCBRsb6B9PMfHbbAvCecH0BmYeCKP0zWhhqJ9Wm3s5LA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Contacts\\Generics - Exercose\\02.GenericBoxOfInteger\\02.GenericBoxOfInteger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gstop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

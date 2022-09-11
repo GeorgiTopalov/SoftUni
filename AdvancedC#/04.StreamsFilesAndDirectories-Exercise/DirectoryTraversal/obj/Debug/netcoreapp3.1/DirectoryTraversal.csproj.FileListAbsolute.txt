@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.exe
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.deps.json
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.runtimeconfig.json
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.runtimeconfig.dev.json
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.dll
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.pdb
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.AssemblyInfo.cs
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.dll
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.pdb
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.genruntimeconfig.cache

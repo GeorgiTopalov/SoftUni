@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\03.PeriodicTable\bin\Debug\net6.0\03.PeriodicTable.exe
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\03.PeriodicTable\bin\Debug\net6.0\03.PeriodicTable.deps.json
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\03.PeriodicTable\bin\Debug\net6.0\03.PeriodicTable.runtimeconfig.json
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\03.PeriodicTable\bin\Debug\net6.0\03.PeriodicTable.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\03.PeriodicTable\bin\Debug\net6.0\ref\03.PeriodicTable.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\03.PeriodicTable\bin\Debug\net6.0\03.PeriodicTable.pdb
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.AssemblyInfo.cs
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\03.PeriodicTable\obj\Debug\net6.0\ref\03.PeriodicTable.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.pdb
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\03.PeriodicTable\obj\Debug\net6.0\03.PeriodicTable.genruntimeconfig.cache

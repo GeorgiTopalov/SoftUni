@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DtyXkKl3hSIJNbonmCvB3FA7MtwCzp7mfL4giP742bI3q8kE6SFu1SLi35DlCU+U6vNv5O+xRVcKzeM7OOQTWw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Contacts\\Advanced Exam Prep\\03.StockMarket\\StockMarket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gstop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

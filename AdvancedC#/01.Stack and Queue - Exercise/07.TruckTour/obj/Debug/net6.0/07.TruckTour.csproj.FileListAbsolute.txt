@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Stack and Queue - Exercise\07.TruckTour\bin\Debug\net6.0\07.TruckTour.exe
+C:\Projects\Contacts\Stack and Queue - Exercise\07.TruckTour\bin\Debug\net6.0\07.TruckTour.deps.json
+C:\Projects\Contacts\Stack and Queue - Exercise\07.TruckTour\bin\Debug\net6.0\07.TruckTour.runtimeconfig.json
+C:\Projects\Contacts\Stack and Queue - Exercise\07.TruckTour\bin\Debug\net6.0\07.TruckTour.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\07.TruckTour\bin\Debug\net6.0\ref\07.TruckTour.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\07.TruckTour\bin\Debug\net6.0\07.TruckTour.pdb
+C:\Projects\Contacts\Stack and Queue - Exercise\07.TruckTour\obj\Debug\net6.0\07.TruckTour.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Stack and Queue - Exercise\07.TruckTour\obj\Debug\net6.0\07.TruckTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Stack and Queue - Exercise\07.TruckTour\obj\Debug\net6.0\07.TruckTour.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Stack and Queue - Exercise\07.TruckTour\obj\Debug\net6.0\07.TruckTour.AssemblyInfo.cs
+C:\Projects\Contacts\Stack and Queue - Exercise\07.TruckTour\obj\Debug\net6.0\07.TruckTour.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Stack and Queue - Exercise\07.TruckTour\obj\Debug\net6.0\07.TruckTour.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\07.TruckTour\obj\Debug\net6.0\ref\07.TruckTour.dll
+C:\Projects\Contacts\Stack and Queue - Exercise\07.TruckTour\obj\Debug\net6.0\07.TruckTour.pdb
+C:\Projects\Contacts\Stack and Queue - Exercise\07.TruckTour\obj\Debug\net6.0\07.TruckTour.genruntimeconfig.cache

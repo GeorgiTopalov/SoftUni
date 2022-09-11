@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Anq2LUbnWg/3bbzz8PFt/y16J+/D0YekDW2JO7KqbEIlXyIDUtJBDvaQOnk9DZuCnHKPoQ0TqkEFKobs3YlKw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Contacts\\Fundamentals - Regular Exam\\02.Regex\\02.Regex.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gstop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

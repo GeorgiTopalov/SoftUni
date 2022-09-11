@@ -1,0 +1,14 @@
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.exe
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.deps.json
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.runtimeconfig.json
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.runtimeconfig.dev.json
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.dll
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\04.Froggy\bin\Debug\netcoreapp3.1\04.Froggy.pdb
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.csproj.AssemblyReference.cache
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.AssemblyInfoInputs.cache
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.AssemblyInfo.cs
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.dll
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.pdb
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\04.Froggy\obj\Debug\netcoreapp3.1\04.Froggy.genruntimeconfig.cache

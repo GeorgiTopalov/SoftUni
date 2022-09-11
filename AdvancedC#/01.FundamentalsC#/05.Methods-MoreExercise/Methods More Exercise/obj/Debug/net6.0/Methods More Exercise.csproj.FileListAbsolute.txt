@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Methods More Exercise\Methods More Exercise\bin\Debug\net6.0\Methods More Exercise.exe
+C:\Projects\Contacts\Methods More Exercise\Methods More Exercise\bin\Debug\net6.0\Methods More Exercise.deps.json
+C:\Projects\Contacts\Methods More Exercise\Methods More Exercise\bin\Debug\net6.0\Methods More Exercise.runtimeconfig.json
+C:\Projects\Contacts\Methods More Exercise\Methods More Exercise\bin\Debug\net6.0\Methods More Exercise.dll
+C:\Projects\Contacts\Methods More Exercise\Methods More Exercise\bin\Debug\net6.0\ref\Methods More Exercise.dll
+C:\Projects\Contacts\Methods More Exercise\Methods More Exercise\bin\Debug\net6.0\Methods More Exercise.pdb
+C:\Projects\Contacts\Methods More Exercise\Methods More Exercise\obj\Debug\net6.0\Methods More Exercise.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Methods More Exercise\Methods More Exercise\obj\Debug\net6.0\Methods More Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Methods More Exercise\Methods More Exercise\obj\Debug\net6.0\Methods More Exercise.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Methods More Exercise\Methods More Exercise\obj\Debug\net6.0\Methods More Exercise.AssemblyInfo.cs
+C:\Projects\Contacts\Methods More Exercise\Methods More Exercise\obj\Debug\net6.0\Methods More Exercise.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Methods More Exercise\Methods More Exercise\obj\Debug\net6.0\Methods More Exercise.dll
+C:\Projects\Contacts\Methods More Exercise\Methods More Exercise\obj\Debug\net6.0\ref\Methods More Exercise.dll
+C:\Projects\Contacts\Methods More Exercise\Methods More Exercise\obj\Debug\net6.0\Methods More Exercise.pdb
+C:\Projects\Contacts\Methods More Exercise\Methods More Exercise\obj\Debug\net6.0\Methods More Exercise.genruntimeconfig.cache

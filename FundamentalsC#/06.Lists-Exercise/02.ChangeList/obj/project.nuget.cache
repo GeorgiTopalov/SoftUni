@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "JJBeS0N38+ezvyU+Bof0/4ZITOV9252hhOH66yhlADw7FBY4iXWqWWIuO7rbg9NWvfXeh3J5ySANoEW/Onz81g==",
+  "success": false,
+  "projectFilePath": "C:\\Projects\\Contacts\\06.Lists-Exercise\\02.ChangeList\\ChangeList.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Projects\\Contacts\\06.Lists-Exercise\\Train\\Append Arrays.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Projects\\Contacts\\06.Lists-Exercise\\Train\\Append Arrays.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\05.CountSymbols\bin\Debug\net6.0\05.CountSymbols.exe
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\05.CountSymbols\bin\Debug\net6.0\05.CountSymbols.deps.json
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\05.CountSymbols\bin\Debug\net6.0\05.CountSymbols.runtimeconfig.json
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\05.CountSymbols\bin\Debug\net6.0\05.CountSymbols.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\05.CountSymbols\bin\Debug\net6.0\ref\05.CountSymbols.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\05.CountSymbols\bin\Debug\net6.0\05.CountSymbols.pdb
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.AssemblyInfo.cs
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\05.CountSymbols\obj\Debug\net6.0\ref\05.CountSymbols.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.pdb
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\05.CountSymbols\obj\Debug\net6.0\05.CountSymbols.genruntimeconfig.cache

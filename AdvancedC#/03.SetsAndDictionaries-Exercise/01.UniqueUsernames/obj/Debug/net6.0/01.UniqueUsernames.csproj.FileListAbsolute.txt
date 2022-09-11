@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\Sets and Dictionaries - Exercise\bin\Debug\net6.0\01.UniqueUsernames.exe
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\Sets and Dictionaries - Exercise\bin\Debug\net6.0\01.UniqueUsernames.deps.json
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\Sets and Dictionaries - Exercise\bin\Debug\net6.0\01.UniqueUsernames.runtimeconfig.json
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\Sets and Dictionaries - Exercise\bin\Debug\net6.0\01.UniqueUsernames.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\Sets and Dictionaries - Exercise\bin\Debug\net6.0\ref\01.UniqueUsernames.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\Sets and Dictionaries - Exercise\bin\Debug\net6.0\01.UniqueUsernames.pdb
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\Sets and Dictionaries - Exercise\obj\Debug\net6.0\01.UniqueUsernames.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\Sets and Dictionaries - Exercise\obj\Debug\net6.0\01.UniqueUsernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\Sets and Dictionaries - Exercise\obj\Debug\net6.0\01.UniqueUsernames.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\Sets and Dictionaries - Exercise\obj\Debug\net6.0\01.UniqueUsernames.AssemblyInfo.cs
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\Sets and Dictionaries - Exercise\obj\Debug\net6.0\01.UniqueUsernames.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\Sets and Dictionaries - Exercise\obj\Debug\net6.0\01.UniqueUsernames.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\Sets and Dictionaries - Exercise\obj\Debug\net6.0\ref\01.UniqueUsernames.dll
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\Sets and Dictionaries - Exercise\obj\Debug\net6.0\01.UniqueUsernames.pdb
+C:\Projects\Contacts\Sets and Dictionaries - Exercise\Sets and Dictionaries - Exercise\obj\Debug\net6.0\01.UniqueUsernames.genruntimeconfig.cache

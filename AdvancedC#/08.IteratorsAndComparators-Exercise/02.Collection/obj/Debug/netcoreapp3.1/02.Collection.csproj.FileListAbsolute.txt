@@ -1,0 +1,13 @@
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.exe
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.deps.json
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.runtimeconfig.json
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.runtimeconfig.dev.json
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.dll
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\02.Collection\bin\Debug\netcoreapp3.1\02.Collection.pdb
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.AssemblyInfoInputs.cache
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.AssemblyInfo.cs
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.dll
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.pdb
+C:\Projects\Contacts\IteratorsAndComparators - Exercise\02.Collection\obj\Debug\netcoreapp3.1\02.Collection.genruntimeconfig.cache

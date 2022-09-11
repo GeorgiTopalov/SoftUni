@@ -1,0 +1,15 @@
+C:\Projects\Contacts\ListsExercise\Train\bin\Debug\net6.0\Append Arrays.exe
+C:\Projects\Contacts\ListsExercise\Train\bin\Debug\net6.0\Append Arrays.deps.json
+C:\Projects\Contacts\ListsExercise\Train\bin\Debug\net6.0\Append Arrays.runtimeconfig.json
+C:\Projects\Contacts\ListsExercise\Train\bin\Debug\net6.0\Append Arrays.dll
+C:\Projects\Contacts\ListsExercise\Train\bin\Debug\net6.0\ref\Append Arrays.dll
+C:\Projects\Contacts\ListsExercise\Train\bin\Debug\net6.0\Append Arrays.pdb
+C:\Projects\Contacts\ListsExercise\Train\obj\Debug\net6.0\Append Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\ListsExercise\Train\obj\Debug\net6.0\Append Arrays.AssemblyInfoInputs.cache
+C:\Projects\Contacts\ListsExercise\Train\obj\Debug\net6.0\Append Arrays.AssemblyInfo.cs
+C:\Projects\Contacts\ListsExercise\Train\obj\Debug\net6.0\Append Arrays.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\ListsExercise\Train\obj\Debug\net6.0\Append Arrays.dll
+C:\Projects\Contacts\ListsExercise\Train\obj\Debug\net6.0\ref\Append Arrays.dll
+C:\Projects\Contacts\ListsExercise\Train\obj\Debug\net6.0\Append Arrays.pdb
+C:\Projects\Contacts\ListsExercise\Train\obj\Debug\net6.0\Append Arrays.genruntimeconfig.cache
+C:\Projects\Contacts\ListsExercise\Train\obj\Debug\net6.0\Append Arrays.csproj.AssemblyReference.cache

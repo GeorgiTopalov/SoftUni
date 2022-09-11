@@ -1,0 +1,15 @@
+C:\Projects\Contacts\ListsExercise\ConsoleApp4\bin\Debug\net6.0\Cards Game.exe
+C:\Projects\Contacts\ListsExercise\ConsoleApp4\bin\Debug\net6.0\Cards Game.deps.json
+C:\Projects\Contacts\ListsExercise\ConsoleApp4\bin\Debug\net6.0\Cards Game.runtimeconfig.json
+C:\Projects\Contacts\ListsExercise\ConsoleApp4\bin\Debug\net6.0\Cards Game.dll
+C:\Projects\Contacts\ListsExercise\ConsoleApp4\bin\Debug\net6.0\ref\Cards Game.dll
+C:\Projects\Contacts\ListsExercise\ConsoleApp4\bin\Debug\net6.0\Cards Game.pdb
+C:\Projects\Contacts\ListsExercise\ConsoleApp4\obj\Debug\net6.0\Cards Game.csproj.AssemblyReference.cache
+C:\Projects\Contacts\ListsExercise\ConsoleApp4\obj\Debug\net6.0\Cards Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\ListsExercise\ConsoleApp4\obj\Debug\net6.0\Cards Game.AssemblyInfoInputs.cache
+C:\Projects\Contacts\ListsExercise\ConsoleApp4\obj\Debug\net6.0\Cards Game.AssemblyInfo.cs
+C:\Projects\Contacts\ListsExercise\ConsoleApp4\obj\Debug\net6.0\Cards Game.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\ListsExercise\ConsoleApp4\obj\Debug\net6.0\Cards Game.dll
+C:\Projects\Contacts\ListsExercise\ConsoleApp4\obj\Debug\net6.0\ref\Cards Game.dll
+C:\Projects\Contacts\ListsExercise\ConsoleApp4\obj\Debug\net6.0\Cards Game.pdb
+C:\Projects\Contacts\ListsExercise\ConsoleApp4\obj\Debug\net6.0\Cards Game.genruntimeconfig.cache

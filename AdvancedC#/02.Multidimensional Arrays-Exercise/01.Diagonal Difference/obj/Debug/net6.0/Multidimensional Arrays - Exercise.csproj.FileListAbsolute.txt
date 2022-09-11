@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\bin\Debug\net6.0\Multidimensional Arrays - Exercise.exe
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\bin\Debug\net6.0\Multidimensional Arrays - Exercise.deps.json
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\bin\Debug\net6.0\Multidimensional Arrays - Exercise.runtimeconfig.json
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\bin\Debug\net6.0\Multidimensional Arrays - Exercise.dll
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\bin\Debug\net6.0\ref\Multidimensional Arrays - Exercise.dll
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\bin\Debug\net6.0\Multidimensional Arrays - Exercise.pdb
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\obj\Debug\net6.0\Multidimensional Arrays - Exercise.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\obj\Debug\net6.0\Multidimensional Arrays - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\obj\Debug\net6.0\Multidimensional Arrays - Exercise.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\obj\Debug\net6.0\Multidimensional Arrays - Exercise.AssemblyInfo.cs
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\obj\Debug\net6.0\Multidimensional Arrays - Exercise.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\obj\Debug\net6.0\Multidimensional Arrays - Exercise.dll
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\obj\Debug\net6.0\ref\Multidimensional Arrays - Exercise.dll
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\obj\Debug\net6.0\Multidimensional Arrays - Exercise.pdb
+C:\Projects\Contacts\Multidimensional Arrays - Exercise\Multidimensional Arrays - Exercise\obj\Debug\net6.0\Multidimensional Arrays - Exercise.genruntimeconfig.cache

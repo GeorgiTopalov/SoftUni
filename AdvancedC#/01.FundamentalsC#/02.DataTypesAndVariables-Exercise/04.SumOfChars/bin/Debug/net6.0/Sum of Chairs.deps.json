@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sum of Chairs/1.0.0": {
+        "runtime": {
+          "Sum of Chairs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sum of Chairs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

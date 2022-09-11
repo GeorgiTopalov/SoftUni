@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Fundamentals Exam Prep\11.Fancy Barcodes\bin\Debug\net6.0\11.Fancy Barcodes.exe
+C:\Projects\Contacts\Fundamentals Exam Prep\11.Fancy Barcodes\bin\Debug\net6.0\11.Fancy Barcodes.deps.json
+C:\Projects\Contacts\Fundamentals Exam Prep\11.Fancy Barcodes\bin\Debug\net6.0\11.Fancy Barcodes.runtimeconfig.json
+C:\Projects\Contacts\Fundamentals Exam Prep\11.Fancy Barcodes\bin\Debug\net6.0\11.Fancy Barcodes.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\11.Fancy Barcodes\bin\Debug\net6.0\ref\11.Fancy Barcodes.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\11.Fancy Barcodes\bin\Debug\net6.0\11.Fancy Barcodes.pdb
+C:\Projects\Contacts\Fundamentals Exam Prep\11.Fancy Barcodes\obj\Debug\net6.0\11.Fancy Barcodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Fundamentals Exam Prep\11.Fancy Barcodes\obj\Debug\net6.0\11.Fancy Barcodes.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Fundamentals Exam Prep\11.Fancy Barcodes\obj\Debug\net6.0\11.Fancy Barcodes.AssemblyInfo.cs
+C:\Projects\Contacts\Fundamentals Exam Prep\11.Fancy Barcodes\obj\Debug\net6.0\11.Fancy Barcodes.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Fundamentals Exam Prep\11.Fancy Barcodes\obj\Debug\net6.0\11.Fancy Barcodes.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\11.Fancy Barcodes\obj\Debug\net6.0\ref\11.Fancy Barcodes.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\11.Fancy Barcodes\obj\Debug\net6.0\11.Fancy Barcodes.pdb
+C:\Projects\Contacts\Fundamentals Exam Prep\11.Fancy Barcodes\obj\Debug\net6.0\11.Fancy Barcodes.genruntimeconfig.cache
+C:\Projects\Contacts\Fundamentals Exam Prep\11.Fancy Barcodes\obj\Debug\net6.0\11.Fancy Barcodes.csproj.AssemblyReference.cache

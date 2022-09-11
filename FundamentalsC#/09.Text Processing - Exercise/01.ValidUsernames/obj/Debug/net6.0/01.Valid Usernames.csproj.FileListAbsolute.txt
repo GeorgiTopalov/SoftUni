@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Text Processing - Exercise\Text Processing - Exercise\bin\Debug\net6.0\01.Valid Usernames.exe
+C:\Projects\Contacts\Text Processing - Exercise\Text Processing - Exercise\bin\Debug\net6.0\01.Valid Usernames.deps.json
+C:\Projects\Contacts\Text Processing - Exercise\Text Processing - Exercise\bin\Debug\net6.0\01.Valid Usernames.runtimeconfig.json
+C:\Projects\Contacts\Text Processing - Exercise\Text Processing - Exercise\bin\Debug\net6.0\01.Valid Usernames.dll
+C:\Projects\Contacts\Text Processing - Exercise\Text Processing - Exercise\bin\Debug\net6.0\ref\01.Valid Usernames.dll
+C:\Projects\Contacts\Text Processing - Exercise\Text Processing - Exercise\bin\Debug\net6.0\01.Valid Usernames.pdb
+C:\Projects\Contacts\Text Processing - Exercise\Text Processing - Exercise\obj\Debug\net6.0\01.Valid Usernames.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Text Processing - Exercise\Text Processing - Exercise\obj\Debug\net6.0\01.Valid Usernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Text Processing - Exercise\Text Processing - Exercise\obj\Debug\net6.0\01.Valid Usernames.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Text Processing - Exercise\Text Processing - Exercise\obj\Debug\net6.0\01.Valid Usernames.AssemblyInfo.cs
+C:\Projects\Contacts\Text Processing - Exercise\Text Processing - Exercise\obj\Debug\net6.0\01.Valid Usernames.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Text Processing - Exercise\Text Processing - Exercise\obj\Debug\net6.0\01.Valid Usernames.dll
+C:\Projects\Contacts\Text Processing - Exercise\Text Processing - Exercise\obj\Debug\net6.0\ref\01.Valid Usernames.dll
+C:\Projects\Contacts\Text Processing - Exercise\Text Processing - Exercise\obj\Debug\net6.0\01.Valid Usernames.pdb
+C:\Projects\Contacts\Text Processing - Exercise\Text Processing - Exercise\obj\Debug\net6.0\01.Valid Usernames.genruntimeconfig.cache

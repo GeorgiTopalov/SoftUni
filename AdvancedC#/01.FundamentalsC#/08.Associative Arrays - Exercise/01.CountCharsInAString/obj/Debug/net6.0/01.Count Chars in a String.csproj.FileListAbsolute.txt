@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Associative Arrays - Exercise\Associative Arrays - Exercise\bin\Debug\net6.0\01.Count Chars in a String.exe
+C:\Projects\Contacts\Associative Arrays - Exercise\Associative Arrays - Exercise\bin\Debug\net6.0\01.Count Chars in a String.deps.json
+C:\Projects\Contacts\Associative Arrays - Exercise\Associative Arrays - Exercise\bin\Debug\net6.0\01.Count Chars in a String.runtimeconfig.json
+C:\Projects\Contacts\Associative Arrays - Exercise\Associative Arrays - Exercise\bin\Debug\net6.0\01.Count Chars in a String.dll
+C:\Projects\Contacts\Associative Arrays - Exercise\Associative Arrays - Exercise\bin\Debug\net6.0\ref\01.Count Chars in a String.dll
+C:\Projects\Contacts\Associative Arrays - Exercise\Associative Arrays - Exercise\bin\Debug\net6.0\01.Count Chars in a String.pdb
+C:\Projects\Contacts\Associative Arrays - Exercise\Associative Arrays - Exercise\obj\Debug\net6.0\01.Count Chars in a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Associative Arrays - Exercise\Associative Arrays - Exercise\obj\Debug\net6.0\01.Count Chars in a String.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Associative Arrays - Exercise\Associative Arrays - Exercise\obj\Debug\net6.0\01.Count Chars in a String.AssemblyInfo.cs
+C:\Projects\Contacts\Associative Arrays - Exercise\Associative Arrays - Exercise\obj\Debug\net6.0\01.Count Chars in a String.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Associative Arrays - Exercise\Associative Arrays - Exercise\obj\Debug\net6.0\01.Count Chars in a String.dll
+C:\Projects\Contacts\Associative Arrays - Exercise\Associative Arrays - Exercise\obj\Debug\net6.0\ref\01.Count Chars in a String.dll
+C:\Projects\Contacts\Associative Arrays - Exercise\Associative Arrays - Exercise\obj\Debug\net6.0\01.Count Chars in a String.pdb
+C:\Projects\Contacts\Associative Arrays - Exercise\Associative Arrays - Exercise\obj\Debug\net6.0\01.Count Chars in a String.genruntimeconfig.cache

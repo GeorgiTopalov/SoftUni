@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HA/AJlZkxsaqKNg5Q/zDX/E0zqbi3/vMXyE3MOqE00IUSyeg13S466y/GKQkQTvnVj2Fvb4EtFpBnyNtKTjYug==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Contacts\\Generics - Exercose\\07.Tuple\\07.Tuple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gstop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

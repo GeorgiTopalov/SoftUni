@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Objects and Classes Exercise\Order By Age\bin\Debug\net6.0\Order By Age.exe
+C:\Projects\Contacts\Objects and Classes Exercise\Order By Age\bin\Debug\net6.0\Order By Age.deps.json
+C:\Projects\Contacts\Objects and Classes Exercise\Order By Age\bin\Debug\net6.0\Order By Age.runtimeconfig.json
+C:\Projects\Contacts\Objects and Classes Exercise\Order By Age\bin\Debug\net6.0\Order By Age.dll
+C:\Projects\Contacts\Objects and Classes Exercise\Order By Age\bin\Debug\net6.0\ref\Order By Age.dll
+C:\Projects\Contacts\Objects and Classes Exercise\Order By Age\bin\Debug\net6.0\Order By Age.pdb
+C:\Projects\Contacts\Objects and Classes Exercise\Order By Age\obj\Debug\net6.0\Order By Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Objects and Classes Exercise\Order By Age\obj\Debug\net6.0\Order By Age.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Objects and Classes Exercise\Order By Age\obj\Debug\net6.0\Order By Age.AssemblyInfo.cs
+C:\Projects\Contacts\Objects and Classes Exercise\Order By Age\obj\Debug\net6.0\Order By Age.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Objects and Classes Exercise\Order By Age\obj\Debug\net6.0\Order By Age.dll
+C:\Projects\Contacts\Objects and Classes Exercise\Order By Age\obj\Debug\net6.0\ref\Order By Age.dll
+C:\Projects\Contacts\Objects and Classes Exercise\Order By Age\obj\Debug\net6.0\Order By Age.pdb
+C:\Projects\Contacts\Objects and Classes Exercise\Order By Age\obj\Debug\net6.0\Order By Age.genruntimeconfig.cache

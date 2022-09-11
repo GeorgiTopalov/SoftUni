@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.exe
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.deps.json
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.runtimeconfig.json
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.runtimeconfig.dev.json
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.dll
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.pdb
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.AssemblyInfo.cs
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.dll
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.pdb
+C:\Projects\Contacts\Streams,Files and Directories - Exercise\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.genruntimeconfig.cache

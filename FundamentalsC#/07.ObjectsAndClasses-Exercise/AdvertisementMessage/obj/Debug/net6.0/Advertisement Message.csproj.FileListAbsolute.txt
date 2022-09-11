@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Objects and Classes Exercise\Objects and Classes Exercise\bin\Debug\net6.0\Advertisement Message.exe
+C:\Projects\Contacts\Objects and Classes Exercise\Objects and Classes Exercise\bin\Debug\net6.0\Advertisement Message.deps.json
+C:\Projects\Contacts\Objects and Classes Exercise\Objects and Classes Exercise\bin\Debug\net6.0\Advertisement Message.runtimeconfig.json
+C:\Projects\Contacts\Objects and Classes Exercise\Objects and Classes Exercise\bin\Debug\net6.0\Advertisement Message.dll
+C:\Projects\Contacts\Objects and Classes Exercise\Objects and Classes Exercise\bin\Debug\net6.0\ref\Advertisement Message.dll
+C:\Projects\Contacts\Objects and Classes Exercise\Objects and Classes Exercise\bin\Debug\net6.0\Advertisement Message.pdb
+C:\Projects\Contacts\Objects and Classes Exercise\Objects and Classes Exercise\obj\Debug\net6.0\Advertisement Message.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Objects and Classes Exercise\Objects and Classes Exercise\obj\Debug\net6.0\Advertisement Message.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Objects and Classes Exercise\Objects and Classes Exercise\obj\Debug\net6.0\Advertisement Message.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Objects and Classes Exercise\Objects and Classes Exercise\obj\Debug\net6.0\Advertisement Message.AssemblyInfo.cs
+C:\Projects\Contacts\Objects and Classes Exercise\Objects and Classes Exercise\obj\Debug\net6.0\Advertisement Message.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Objects and Classes Exercise\Objects and Classes Exercise\obj\Debug\net6.0\Advertisement Message.dll
+C:\Projects\Contacts\Objects and Classes Exercise\Objects and Classes Exercise\obj\Debug\net6.0\ref\Advertisement Message.dll
+C:\Projects\Contacts\Objects and Classes Exercise\Objects and Classes Exercise\obj\Debug\net6.0\Advertisement Message.pdb
+C:\Projects\Contacts\Objects and Classes Exercise\Objects and Classes Exercise\obj\Debug\net6.0\Advertisement Message.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2v/znb/rVYlp5umb+vbi4qMha9ELb2kc6YIRoE82VyAW3WyqYxgjgexK2WqeqB9ubohMe/WBrjZIEE9pFlKVpA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Contacts\\11.Fundamentals-MidExam-Preparation\\02.ShootForTheWin\\02.ShootForTheWin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gstop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

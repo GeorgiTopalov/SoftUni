@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Fundamentals Exam Prep\08.Mirror Words\bin\Debug\net6.0\08.Mirror Words.exe
+C:\Projects\Contacts\Fundamentals Exam Prep\08.Mirror Words\bin\Debug\net6.0\08.Mirror Words.deps.json
+C:\Projects\Contacts\Fundamentals Exam Prep\08.Mirror Words\bin\Debug\net6.0\08.Mirror Words.runtimeconfig.json
+C:\Projects\Contacts\Fundamentals Exam Prep\08.Mirror Words\bin\Debug\net6.0\08.Mirror Words.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\08.Mirror Words\bin\Debug\net6.0\ref\08.Mirror Words.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\08.Mirror Words\bin\Debug\net6.0\08.Mirror Words.pdb
+C:\Projects\Contacts\Fundamentals Exam Prep\08.Mirror Words\obj\Debug\net6.0\08.Mirror Words.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Fundamentals Exam Prep\08.Mirror Words\obj\Debug\net6.0\08.Mirror Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Fundamentals Exam Prep\08.Mirror Words\obj\Debug\net6.0\08.Mirror Words.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Fundamentals Exam Prep\08.Mirror Words\obj\Debug\net6.0\08.Mirror Words.AssemblyInfo.cs
+C:\Projects\Contacts\Fundamentals Exam Prep\08.Mirror Words\obj\Debug\net6.0\08.Mirror Words.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Fundamentals Exam Prep\08.Mirror Words\obj\Debug\net6.0\08.Mirror Words.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\08.Mirror Words\obj\Debug\net6.0\ref\08.Mirror Words.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\08.Mirror Words\obj\Debug\net6.0\08.Mirror Words.pdb
+C:\Projects\Contacts\Fundamentals Exam Prep\08.Mirror Words\obj\Debug\net6.0\08.Mirror Words.genruntimeconfig.cache

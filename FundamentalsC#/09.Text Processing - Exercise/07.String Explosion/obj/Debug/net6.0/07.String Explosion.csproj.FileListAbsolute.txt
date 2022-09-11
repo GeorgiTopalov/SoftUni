@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Text Processing - Exercise\07.String Explosion\bin\Debug\net6.0\07.String Explosion.exe
+C:\Projects\Contacts\Text Processing - Exercise\07.String Explosion\bin\Debug\net6.0\07.String Explosion.deps.json
+C:\Projects\Contacts\Text Processing - Exercise\07.String Explosion\bin\Debug\net6.0\07.String Explosion.runtimeconfig.json
+C:\Projects\Contacts\Text Processing - Exercise\07.String Explosion\bin\Debug\net6.0\07.String Explosion.dll
+C:\Projects\Contacts\Text Processing - Exercise\07.String Explosion\bin\Debug\net6.0\ref\07.String Explosion.dll
+C:\Projects\Contacts\Text Processing - Exercise\07.String Explosion\bin\Debug\net6.0\07.String Explosion.pdb
+C:\Projects\Contacts\Text Processing - Exercise\07.String Explosion\obj\Debug\net6.0\07.String Explosion.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Text Processing - Exercise\07.String Explosion\obj\Debug\net6.0\07.String Explosion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Text Processing - Exercise\07.String Explosion\obj\Debug\net6.0\07.String Explosion.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Text Processing - Exercise\07.String Explosion\obj\Debug\net6.0\07.String Explosion.AssemblyInfo.cs
+C:\Projects\Contacts\Text Processing - Exercise\07.String Explosion\obj\Debug\net6.0\07.String Explosion.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Text Processing - Exercise\07.String Explosion\obj\Debug\net6.0\07.String Explosion.dll
+C:\Projects\Contacts\Text Processing - Exercise\07.String Explosion\obj\Debug\net6.0\ref\07.String Explosion.dll
+C:\Projects\Contacts\Text Processing - Exercise\07.String Explosion\obj\Debug\net6.0\07.String Explosion.pdb
+C:\Projects\Contacts\Text Processing - Exercise\07.String Explosion\obj\Debug\net6.0\07.String Explosion.genruntimeconfig.cache

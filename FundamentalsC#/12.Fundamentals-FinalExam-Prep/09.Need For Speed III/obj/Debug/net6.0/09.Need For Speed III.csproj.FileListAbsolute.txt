@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Fundamentals Exam Prep\09.Need For Speed III\bin\Debug\net6.0\09.Need For Speed III.exe
+C:\Projects\Contacts\Fundamentals Exam Prep\09.Need For Speed III\bin\Debug\net6.0\09.Need For Speed III.deps.json
+C:\Projects\Contacts\Fundamentals Exam Prep\09.Need For Speed III\bin\Debug\net6.0\09.Need For Speed III.runtimeconfig.json
+C:\Projects\Contacts\Fundamentals Exam Prep\09.Need For Speed III\bin\Debug\net6.0\09.Need For Speed III.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\09.Need For Speed III\bin\Debug\net6.0\ref\09.Need For Speed III.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\09.Need For Speed III\bin\Debug\net6.0\09.Need For Speed III.pdb
+C:\Projects\Contacts\Fundamentals Exam Prep\09.Need For Speed III\obj\Debug\net6.0\09.Need For Speed III.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Fundamentals Exam Prep\09.Need For Speed III\obj\Debug\net6.0\09.Need For Speed III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Fundamentals Exam Prep\09.Need For Speed III\obj\Debug\net6.0\09.Need For Speed III.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Fundamentals Exam Prep\09.Need For Speed III\obj\Debug\net6.0\09.Need For Speed III.AssemblyInfo.cs
+C:\Projects\Contacts\Fundamentals Exam Prep\09.Need For Speed III\obj\Debug\net6.0\09.Need For Speed III.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Fundamentals Exam Prep\09.Need For Speed III\obj\Debug\net6.0\09.Need For Speed III.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\09.Need For Speed III\obj\Debug\net6.0\ref\09.Need For Speed III.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\09.Need For Speed III\obj\Debug\net6.0\09.Need For Speed III.pdb
+C:\Projects\Contacts\Fundamentals Exam Prep\09.Need For Speed III\obj\Debug\net6.0\09.Need For Speed III.genruntimeconfig.cache

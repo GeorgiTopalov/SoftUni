@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Methods More Exercise/1.0.0": {
+        "runtime": {
+          "Methods More Exercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Methods More Exercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

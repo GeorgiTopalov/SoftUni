@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "297aea03-b77c-4274-b844-2d0f63e88d1f": {
+      "ProjectGuid": "297aea03-b77c-4274-b844-2d0f63e88d1f",
+      "DisplayName": "01.StringManipulation",
+      "ColorIndex": 0
+    },
+    "f99b0d68-1a6f-4cd4-a704-ee65d91a8d9e": {
+      "ProjectGuid": "f99b0d68-1a6f-4cd4-a704-ee65d91a8d9e",
+      "DisplayName": "02.Regex",
+      "ColorIndex": 1
+    },
+    "d1938a75-23df-4a46-a7af-5569a1064f1f": {
+      "ProjectGuid": "d1938a75-23df-4a46-a7af-5569a1064f1f",
+      "DisplayName": "03.DictionariesOrClasses",
+      "ColorIndex": 2
+    },
+    "ebb6ab56-64ec-4570-8f81-7e41ace39c87": {
+      "ProjectGuid": "ebb6ab56-64ec-4570-8f81-7e41ace39c87",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "24dbae0a-0a43-4715-a74b-ca0f759c2fc7": {
+      "ProjectGuid": "24dbae0a-0a43-4715-a74b-ca0f759c2fc7",
+      "DisplayName": "01.StringManipulation",
+      "ColorIndex": 4
+    },
+    "90a889f8-5249-41d9-823d-800fe58495ca": {
+      "ProjectGuid": "90a889f8-5249-41d9-823d-800fe58495ca",
+      "DisplayName": "01.ActivationKeys",
+      "ColorIndex": 5
+    },
+    "fc177307-3ab5-4f8c-a426-5debcda97213": {
+      "ProjectGuid": "fc177307-3ab5-4f8c-a426-5debcda97213",
+      "DisplayName": "02.EmojiDetector",
+      "ColorIndex": 6
+    },
+    "c6606dc3-64bc-4281-a856-84fa461fb2fd": {
+      "ProjectGuid": "c6606dc3-64bc-4281-a856-84fa461fb2fd",
+      "DisplayName": "03.P!rates",
+      "ColorIndex": 7
+    },
+    "516ad1d4-12ea-41b2-b080-4f3795faeb92": {
+      "ProjectGuid": "516ad1d4-12ea-41b2-b080-4f3795faeb92",
+      "DisplayName": "01.PasswordReset",
+      "ColorIndex": 8
+    },
+    "b8810648-6437-4ae6-861b-506e6cfeaa90": {
+      "ProjectGuid": "b8810648-6437-4ae6-861b-506e6cfeaa90",
+      "DisplayName": "02.FancyBarcodes",
+      "ColorIndex": 9
+    },
+    "ad8914d8-9bd4-43e9-9a60-71c058e5b0d6": {
+      "ProjectGuid": "ad8914d8-9bd4-43e9-9a60-71c058e5b0d6",
+      "DisplayName": "03.HeroesOfCodeAndLogicVII",
+      "ColorIndex": 10
+    },
+    "7419162c-eedd-4f5f-9d96-d99134ad5827": {
+      "ProjectGuid": "7419162c-eedd-4f5f-9d96-d99134ad5827",
+      "DisplayName": "01.SecretChat",
+      "ColorIndex": 11
+    },
+    "01946224-9871-499e-8fd2-a67eb145d25e": {
+      "ProjectGuid": "01946224-9871-499e-8fd2-a67eb145d25e",
+      "DisplayName": "02.MirrorWords",
+      "ColorIndex": 12
+    },
+    "123b10cb-600b-4f88-967d-d6dc01b7e4bd": {
+      "ProjectGuid": "123b10cb-600b-4f88-967d-d6dc01b7e4bd",
+      "DisplayName": "03.NeedForSpeedIII",
+      "ColorIndex": 13
+    }
+  },
+  "NextColorIndex": 14
+}

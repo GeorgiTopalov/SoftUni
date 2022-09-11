@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Advanced Exam Prep\02.Armory\bin\Debug\netcoreapp3.1\02.Armory.exe
+C:\Projects\Contacts\Advanced Exam Prep\02.Armory\bin\Debug\netcoreapp3.1\02.Armory.deps.json
+C:\Projects\Contacts\Advanced Exam Prep\02.Armory\bin\Debug\netcoreapp3.1\02.Armory.runtimeconfig.json
+C:\Projects\Contacts\Advanced Exam Prep\02.Armory\bin\Debug\netcoreapp3.1\02.Armory.runtimeconfig.dev.json
+C:\Projects\Contacts\Advanced Exam Prep\02.Armory\bin\Debug\netcoreapp3.1\02.Armory.dll
+C:\Projects\Contacts\Advanced Exam Prep\02.Armory\bin\Debug\netcoreapp3.1\02.Armory.pdb
+C:\Projects\Contacts\Advanced Exam Prep\02.Armory\obj\Debug\netcoreapp3.1\02.Armory.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Advanced Exam Prep\02.Armory\obj\Debug\netcoreapp3.1\02.Armory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Advanced Exam Prep\02.Armory\obj\Debug\netcoreapp3.1\02.Armory.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Advanced Exam Prep\02.Armory\obj\Debug\netcoreapp3.1\02.Armory.AssemblyInfo.cs
+C:\Projects\Contacts\Advanced Exam Prep\02.Armory\obj\Debug\netcoreapp3.1\02.Armory.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Advanced Exam Prep\02.Armory\obj\Debug\netcoreapp3.1\02.Armory.dll
+C:\Projects\Contacts\Advanced Exam Prep\02.Armory\obj\Debug\netcoreapp3.1\02.Armory.pdb
+C:\Projects\Contacts\Advanced Exam Prep\02.Armory\obj\Debug\netcoreapp3.1\02.Armory.genruntimeconfig.cache

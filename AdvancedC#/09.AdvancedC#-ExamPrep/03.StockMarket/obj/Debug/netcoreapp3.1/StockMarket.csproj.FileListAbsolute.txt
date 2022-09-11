@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Advanced Exam Prep\03.StockMarket\bin\Debug\netcoreapp3.1\StockMarket.exe
+C:\Projects\Contacts\Advanced Exam Prep\03.StockMarket\bin\Debug\netcoreapp3.1\StockMarket.deps.json
+C:\Projects\Contacts\Advanced Exam Prep\03.StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.json
+C:\Projects\Contacts\Advanced Exam Prep\03.StockMarket\bin\Debug\netcoreapp3.1\StockMarket.runtimeconfig.dev.json
+C:\Projects\Contacts\Advanced Exam Prep\03.StockMarket\bin\Debug\netcoreapp3.1\StockMarket.dll
+C:\Projects\Contacts\Advanced Exam Prep\03.StockMarket\bin\Debug\netcoreapp3.1\StockMarket.pdb
+C:\Projects\Contacts\Advanced Exam Prep\03.StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Advanced Exam Prep\03.StockMarket\obj\Debug\netcoreapp3.1\StockMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Advanced Exam Prep\03.StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Advanced Exam Prep\03.StockMarket\obj\Debug\netcoreapp3.1\StockMarket.AssemblyInfo.cs
+C:\Projects\Contacts\Advanced Exam Prep\03.StockMarket\obj\Debug\netcoreapp3.1\StockMarket.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Advanced Exam Prep\03.StockMarket\obj\Debug\netcoreapp3.1\StockMarket.dll
+C:\Projects\Contacts\Advanced Exam Prep\03.StockMarket\obj\Debug\netcoreapp3.1\StockMarket.pdb
+C:\Projects\Contacts\Advanced Exam Prep\03.StockMarket\obj\Debug\netcoreapp3.1\StockMarket.genruntimeconfig.cache

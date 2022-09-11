@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Objects and Classes Exercise\Teamwork Projects\bin\Debug\net6.0\Teamwork Projects.exe
+C:\Projects\Contacts\Objects and Classes Exercise\Teamwork Projects\bin\Debug\net6.0\Teamwork Projects.deps.json
+C:\Projects\Contacts\Objects and Classes Exercise\Teamwork Projects\bin\Debug\net6.0\Teamwork Projects.runtimeconfig.json
+C:\Projects\Contacts\Objects and Classes Exercise\Teamwork Projects\bin\Debug\net6.0\Teamwork Projects.dll
+C:\Projects\Contacts\Objects and Classes Exercise\Teamwork Projects\bin\Debug\net6.0\ref\Teamwork Projects.dll
+C:\Projects\Contacts\Objects and Classes Exercise\Teamwork Projects\bin\Debug\net6.0\Teamwork Projects.pdb
+C:\Projects\Contacts\Objects and Classes Exercise\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Objects and Classes Exercise\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Objects and Classes Exercise\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Objects and Classes Exercise\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.AssemblyInfo.cs
+C:\Projects\Contacts\Objects and Classes Exercise\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Objects and Classes Exercise\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.dll
+C:\Projects\Contacts\Objects and Classes Exercise\Teamwork Projects\obj\Debug\net6.0\ref\Teamwork Projects.dll
+C:\Projects\Contacts\Objects and Classes Exercise\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.pdb
+C:\Projects\Contacts\Objects and Classes Exercise\Teamwork Projects\obj\Debug\net6.0\Teamwork Projects.genruntimeconfig.cache

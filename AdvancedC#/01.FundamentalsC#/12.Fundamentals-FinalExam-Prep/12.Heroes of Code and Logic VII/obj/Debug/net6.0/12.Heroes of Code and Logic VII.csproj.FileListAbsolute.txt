@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Fundamentals Exam Prep\12.Heroes of Code and Logic VII\bin\Debug\net6.0\12.Heroes of Code and Logic VII.exe
+C:\Projects\Contacts\Fundamentals Exam Prep\12.Heroes of Code and Logic VII\bin\Debug\net6.0\12.Heroes of Code and Logic VII.deps.json
+C:\Projects\Contacts\Fundamentals Exam Prep\12.Heroes of Code and Logic VII\bin\Debug\net6.0\12.Heroes of Code and Logic VII.runtimeconfig.json
+C:\Projects\Contacts\Fundamentals Exam Prep\12.Heroes of Code and Logic VII\bin\Debug\net6.0\12.Heroes of Code and Logic VII.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\12.Heroes of Code and Logic VII\bin\Debug\net6.0\ref\12.Heroes of Code and Logic VII.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\12.Heroes of Code and Logic VII\bin\Debug\net6.0\12.Heroes of Code and Logic VII.pdb
+C:\Projects\Contacts\Fundamentals Exam Prep\12.Heroes of Code and Logic VII\obj\Debug\net6.0\12.Heroes of Code and Logic VII.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Fundamentals Exam Prep\12.Heroes of Code and Logic VII\obj\Debug\net6.0\12.Heroes of Code and Logic VII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Fundamentals Exam Prep\12.Heroes of Code and Logic VII\obj\Debug\net6.0\12.Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Fundamentals Exam Prep\12.Heroes of Code and Logic VII\obj\Debug\net6.0\12.Heroes of Code and Logic VII.AssemblyInfo.cs
+C:\Projects\Contacts\Fundamentals Exam Prep\12.Heroes of Code and Logic VII\obj\Debug\net6.0\12.Heroes of Code and Logic VII.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Fundamentals Exam Prep\12.Heroes of Code and Logic VII\obj\Debug\net6.0\12.Heroes of Code and Logic VII.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\12.Heroes of Code and Logic VII\obj\Debug\net6.0\ref\12.Heroes of Code and Logic VII.dll
+C:\Projects\Contacts\Fundamentals Exam Prep\12.Heroes of Code and Logic VII\obj\Debug\net6.0\12.Heroes of Code and Logic VII.pdb
+C:\Projects\Contacts\Fundamentals Exam Prep\12.Heroes of Code and Logic VII\obj\Debug\net6.0\12.Heroes of Code and Logic VII.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CVIaxUYdS1YpojeloHHrcUsAtAc/kEBJI2q85vWv1ttWOznUTBE5R2j2gyf2GbUX3vLHIZFRsfouisHXzKxA9g==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Contacts\\IteratorsAndComparators - Exercise\\01.LystIterator\\01.LystIterator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gstop\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

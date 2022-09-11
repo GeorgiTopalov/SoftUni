@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Text Processing - Exercise\04.Caesar Cipher\bin\Debug\net6.0\04.Caesar Cipher.exe
+C:\Projects\Contacts\Text Processing - Exercise\04.Caesar Cipher\bin\Debug\net6.0\04.Caesar Cipher.deps.json
+C:\Projects\Contacts\Text Processing - Exercise\04.Caesar Cipher\bin\Debug\net6.0\04.Caesar Cipher.runtimeconfig.json
+C:\Projects\Contacts\Text Processing - Exercise\04.Caesar Cipher\bin\Debug\net6.0\04.Caesar Cipher.dll
+C:\Projects\Contacts\Text Processing - Exercise\04.Caesar Cipher\bin\Debug\net6.0\ref\04.Caesar Cipher.dll
+C:\Projects\Contacts\Text Processing - Exercise\04.Caesar Cipher\bin\Debug\net6.0\04.Caesar Cipher.pdb
+C:\Projects\Contacts\Text Processing - Exercise\04.Caesar Cipher\obj\Debug\net6.0\04.Caesar Cipher.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Text Processing - Exercise\04.Caesar Cipher\obj\Debug\net6.0\04.Caesar Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Text Processing - Exercise\04.Caesar Cipher\obj\Debug\net6.0\04.Caesar Cipher.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Text Processing - Exercise\04.Caesar Cipher\obj\Debug\net6.0\04.Caesar Cipher.AssemblyInfo.cs
+C:\Projects\Contacts\Text Processing - Exercise\04.Caesar Cipher\obj\Debug\net6.0\04.Caesar Cipher.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Text Processing - Exercise\04.Caesar Cipher\obj\Debug\net6.0\04.Caesar Cipher.dll
+C:\Projects\Contacts\Text Processing - Exercise\04.Caesar Cipher\obj\Debug\net6.0\ref\04.Caesar Cipher.dll
+C:\Projects\Contacts\Text Processing - Exercise\04.Caesar Cipher\obj\Debug\net6.0\04.Caesar Cipher.pdb
+C:\Projects\Contacts\Text Processing - Exercise\04.Caesar Cipher\obj\Debug\net6.0\04.Caesar Cipher.genruntimeconfig.cache

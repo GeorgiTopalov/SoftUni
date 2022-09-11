@@ -1,0 +1,15 @@
+C:\Projects\Contacts\Text Processing - Exercise\02.Character Multiplier\bin\Debug\net6.0\02.Character Multiplier.exe
+C:\Projects\Contacts\Text Processing - Exercise\02.Character Multiplier\bin\Debug\net6.0\02.Character Multiplier.deps.json
+C:\Projects\Contacts\Text Processing - Exercise\02.Character Multiplier\bin\Debug\net6.0\02.Character Multiplier.runtimeconfig.json
+C:\Projects\Contacts\Text Processing - Exercise\02.Character Multiplier\bin\Debug\net6.0\02.Character Multiplier.dll
+C:\Projects\Contacts\Text Processing - Exercise\02.Character Multiplier\bin\Debug\net6.0\ref\02.Character Multiplier.dll
+C:\Projects\Contacts\Text Processing - Exercise\02.Character Multiplier\bin\Debug\net6.0\02.Character Multiplier.pdb
+C:\Projects\Contacts\Text Processing - Exercise\02.Character Multiplier\obj\Debug\net6.0\02.Character Multiplier.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Text Processing - Exercise\02.Character Multiplier\obj\Debug\net6.0\02.Character Multiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Text Processing - Exercise\02.Character Multiplier\obj\Debug\net6.0\02.Character Multiplier.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Text Processing - Exercise\02.Character Multiplier\obj\Debug\net6.0\02.Character Multiplier.AssemblyInfo.cs
+C:\Projects\Contacts\Text Processing - Exercise\02.Character Multiplier\obj\Debug\net6.0\02.Character Multiplier.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Text Processing - Exercise\02.Character Multiplier\obj\Debug\net6.0\02.Character Multiplier.dll
+C:\Projects\Contacts\Text Processing - Exercise\02.Character Multiplier\obj\Debug\net6.0\ref\02.Character Multiplier.dll
+C:\Projects\Contacts\Text Processing - Exercise\02.Character Multiplier\obj\Debug\net6.0\02.Character Multiplier.pdb
+C:\Projects\Contacts\Text Processing - Exercise\02.Character Multiplier\obj\Debug\net6.0\02.Character Multiplier.genruntimeconfig.cache

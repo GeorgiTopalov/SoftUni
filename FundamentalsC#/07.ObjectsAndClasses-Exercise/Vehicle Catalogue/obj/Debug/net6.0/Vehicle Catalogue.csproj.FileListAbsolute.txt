@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Objects and Classes Exercise\Vehicle Catalogue\bin\Debug\net6.0\Vehicle Catalogue.exe
+C:\Projects\Contacts\Objects and Classes Exercise\Vehicle Catalogue\bin\Debug\net6.0\Vehicle Catalogue.deps.json
+C:\Projects\Contacts\Objects and Classes Exercise\Vehicle Catalogue\bin\Debug\net6.0\Vehicle Catalogue.runtimeconfig.json
+C:\Projects\Contacts\Objects and Classes Exercise\Vehicle Catalogue\bin\Debug\net6.0\Vehicle Catalogue.dll
+C:\Projects\Contacts\Objects and Classes Exercise\Vehicle Catalogue\bin\Debug\net6.0\ref\Vehicle Catalogue.dll
+C:\Projects\Contacts\Objects and Classes Exercise\Vehicle Catalogue\bin\Debug\net6.0\Vehicle Catalogue.pdb
+C:\Projects\Contacts\Objects and Classes Exercise\Vehicle Catalogue\obj\Debug\net6.0\Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Objects and Classes Exercise\Vehicle Catalogue\obj\Debug\net6.0\Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Objects and Classes Exercise\Vehicle Catalogue\obj\Debug\net6.0\Vehicle Catalogue.AssemblyInfo.cs
+C:\Projects\Contacts\Objects and Classes Exercise\Vehicle Catalogue\obj\Debug\net6.0\Vehicle Catalogue.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Objects and Classes Exercise\Vehicle Catalogue\obj\Debug\net6.0\Vehicle Catalogue.dll
+C:\Projects\Contacts\Objects and Classes Exercise\Vehicle Catalogue\obj\Debug\net6.0\ref\Vehicle Catalogue.dll
+C:\Projects\Contacts\Objects and Classes Exercise\Vehicle Catalogue\obj\Debug\net6.0\Vehicle Catalogue.pdb
+C:\Projects\Contacts\Objects and Classes Exercise\Vehicle Catalogue\obj\Debug\net6.0\Vehicle Catalogue.genruntimeconfig.cache

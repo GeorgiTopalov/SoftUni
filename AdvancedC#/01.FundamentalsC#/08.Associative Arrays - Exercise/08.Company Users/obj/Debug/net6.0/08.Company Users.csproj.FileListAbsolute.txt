@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Associative Arrays - Exercise\08.Company Users\bin\Debug\net6.0\08.Company Users.exe
+C:\Projects\Contacts\Associative Arrays - Exercise\08.Company Users\bin\Debug\net6.0\08.Company Users.deps.json
+C:\Projects\Contacts\Associative Arrays - Exercise\08.Company Users\bin\Debug\net6.0\08.Company Users.runtimeconfig.json
+C:\Projects\Contacts\Associative Arrays - Exercise\08.Company Users\bin\Debug\net6.0\08.Company Users.dll
+C:\Projects\Contacts\Associative Arrays - Exercise\08.Company Users\bin\Debug\net6.0\ref\08.Company Users.dll
+C:\Projects\Contacts\Associative Arrays - Exercise\08.Company Users\bin\Debug\net6.0\08.Company Users.pdb
+C:\Projects\Contacts\Associative Arrays - Exercise\08.Company Users\obj\Debug\net6.0\08.Company Users.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Associative Arrays - Exercise\08.Company Users\obj\Debug\net6.0\08.Company Users.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Associative Arrays - Exercise\08.Company Users\obj\Debug\net6.0\08.Company Users.AssemblyInfo.cs
+C:\Projects\Contacts\Associative Arrays - Exercise\08.Company Users\obj\Debug\net6.0\08.Company Users.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Associative Arrays - Exercise\08.Company Users\obj\Debug\net6.0\08.Company Users.dll
+C:\Projects\Contacts\Associative Arrays - Exercise\08.Company Users\obj\Debug\net6.0\ref\08.Company Users.dll
+C:\Projects\Contacts\Associative Arrays - Exercise\08.Company Users\obj\Debug\net6.0\08.Company Users.pdb
+C:\Projects\Contacts\Associative Arrays - Exercise\08.Company Users\obj\Debug\net6.0\08.Company Users.genruntimeconfig.cache

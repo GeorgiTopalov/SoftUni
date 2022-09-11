@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "03e6183e-454d-49a9-9a88-bcb81a49448f": {
+      "ProjectGuid": "03e6183e-454d-49a9-9a88-bcb81a49448f",
+      "DisplayName": "Regular Expressions - Exercise",
+      "ColorIndex": 0
+    },
+    "697da607-4133-4aaf-8d47-7730ba98d277": {
+      "ProjectGuid": "697da607-4133-4aaf-8d47-7730ba98d277",
+      "DisplayName": "01.Furniture",
+      "ColorIndex": 1
+    },
+    "beebef6c-3c68-4e80-8d6a-fb53c2599d1c": {
+      "ProjectGuid": "beebef6c-3c68-4e80-8d6a-fb53c2599d1c",
+      "DisplayName": "02.Race",
+      "ColorIndex": 2
+    },
+    "d6252d0e-2457-4b27-80f1-11d667bcc9f3": {
+      "ProjectGuid": "d6252d0e-2457-4b27-80f1-11d667bcc9f3",
+      "DisplayName": "03.SoftUni Bar Income",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

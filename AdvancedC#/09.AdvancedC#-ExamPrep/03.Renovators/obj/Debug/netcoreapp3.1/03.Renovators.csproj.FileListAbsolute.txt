@@ -1,0 +1,13 @@
+C:\Projects\Contacts\Advanced Exam Prep\03.Renovators\bin\Debug\netcoreapp3.1\03.Renovators.exe
+C:\Projects\Contacts\Advanced Exam Prep\03.Renovators\bin\Debug\netcoreapp3.1\03.Renovators.deps.json
+C:\Projects\Contacts\Advanced Exam Prep\03.Renovators\bin\Debug\netcoreapp3.1\03.Renovators.runtimeconfig.json
+C:\Projects\Contacts\Advanced Exam Prep\03.Renovators\bin\Debug\netcoreapp3.1\03.Renovators.runtimeconfig.dev.json
+C:\Projects\Contacts\Advanced Exam Prep\03.Renovators\bin\Debug\netcoreapp3.1\03.Renovators.dll
+C:\Projects\Contacts\Advanced Exam Prep\03.Renovators\bin\Debug\netcoreapp3.1\03.Renovators.pdb
+C:\Projects\Contacts\Advanced Exam Prep\03.Renovators\obj\Debug\netcoreapp3.1\03.Renovators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Advanced Exam Prep\03.Renovators\obj\Debug\netcoreapp3.1\03.Renovators.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Advanced Exam Prep\03.Renovators\obj\Debug\netcoreapp3.1\03.Renovators.AssemblyInfo.cs
+C:\Projects\Contacts\Advanced Exam Prep\03.Renovators\obj\Debug\netcoreapp3.1\03.Renovators.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Advanced Exam Prep\03.Renovators\obj\Debug\netcoreapp3.1\03.Renovators.dll
+C:\Projects\Contacts\Advanced Exam Prep\03.Renovators\obj\Debug\netcoreapp3.1\03.Renovators.pdb
+C:\Projects\Contacts\Advanced Exam Prep\03.Renovators\obj\Debug\netcoreapp3.1\03.Renovators.genruntimeconfig.cache

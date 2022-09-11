@@ -1,0 +1,14 @@
+C:\Projects\Contacts\Advanced Exam Prep\01.BakeryShop\bin\Debug\netcoreapp3.1\01.BakeryShop.exe
+C:\Projects\Contacts\Advanced Exam Prep\01.BakeryShop\bin\Debug\netcoreapp3.1\01.BakeryShop.deps.json
+C:\Projects\Contacts\Advanced Exam Prep\01.BakeryShop\bin\Debug\netcoreapp3.1\01.BakeryShop.runtimeconfig.json
+C:\Projects\Contacts\Advanced Exam Prep\01.BakeryShop\bin\Debug\netcoreapp3.1\01.BakeryShop.runtimeconfig.dev.json
+C:\Projects\Contacts\Advanced Exam Prep\01.BakeryShop\bin\Debug\netcoreapp3.1\01.BakeryShop.dll
+C:\Projects\Contacts\Advanced Exam Prep\01.BakeryShop\bin\Debug\netcoreapp3.1\01.BakeryShop.pdb
+C:\Projects\Contacts\Advanced Exam Prep\01.BakeryShop\obj\Debug\netcoreapp3.1\01.BakeryShop.csproj.AssemblyReference.cache
+C:\Projects\Contacts\Advanced Exam Prep\01.BakeryShop\obj\Debug\netcoreapp3.1\01.BakeryShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Contacts\Advanced Exam Prep\01.BakeryShop\obj\Debug\netcoreapp3.1\01.BakeryShop.AssemblyInfoInputs.cache
+C:\Projects\Contacts\Advanced Exam Prep\01.BakeryShop\obj\Debug\netcoreapp3.1\01.BakeryShop.AssemblyInfo.cs
+C:\Projects\Contacts\Advanced Exam Prep\01.BakeryShop\obj\Debug\netcoreapp3.1\01.BakeryShop.csproj.CoreCompileInputs.cache
+C:\Projects\Contacts\Advanced Exam Prep\01.BakeryShop\obj\Debug\netcoreapp3.1\01.BakeryShop.dll
+C:\Projects\Contacts\Advanced Exam Prep\01.BakeryShop\obj\Debug\netcoreapp3.1\01.BakeryShop.pdb
+C:\Projects\Contacts\Advanced Exam Prep\01.BakeryShop\obj\Debug\netcoreapp3.1\01.BakeryShop.genruntimeconfig.cache
