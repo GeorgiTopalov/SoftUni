@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d7a5f188-5181-4c86-a698-648dd797a104": {
+      "ProjectGuid": "d7a5f188-5181-4c86-a698-648dd797a104",
+      "DisplayName": "03.DataTypesAndVariables-Exercise",
+      "ColorIndex": 0
+    },
+    "e0c74648-f798-4f56-8a3c-dc1d40de123f": {
+      "ProjectGuid": "e0c74648-f798-4f56-8a3c-dc1d40de123f",
+      "DisplayName": "01.IntegerOperations",
+      "ColorIndex": 1
+    },
+    "256956aa-e723-4cb8-b328-32354d4192ab": {
+      "ProjectGuid": "256956aa-e723-4cb8-b328-32354d4192ab",
+      "DisplayName": "08.Beer Kegs",
+      "ColorIndex": 2
+    },
+    "ebfc7e6b-7f74-4024-a613-7fc23b4f3ad4": {
+      "ProjectGuid": "ebfc7e6b-7f74-4024-a613-7fc23b4f3ad4",
+      "DisplayName": "02.SumDigits",
+      "ColorIndex": 3
+    },
+    "4b754dc0-ac0f-41e6-861d-92f6815f3468": {
+      "ProjectGuid": "4b754dc0-ac0f-41e6-861d-92f6815f3468",
+      "DisplayName": "03.Elevator",
+      "ColorIndex": 4
+    },
+    "81254bcc-94b4-48ec-9abf-13f1574bc647": {
+      "ProjectGuid": "81254bcc-94b4-48ec-9abf-13f1574bc647",
+      "DisplayName": "05.Print Part Of ASCII Table",
+      "ColorIndex": 5
+    },
+    "a7b37100-a2eb-45f2-9373-c3e314b38da0": {
+      "ProjectGuid": "a7b37100-a2eb-45f2-9373-c3e314b38da0",
+      "DisplayName": "04.Sum of Chars",
+      "ColorIndex": 6
+    },
+    "8dca8d79-ef9b-40d7-a550-ee116f1bc09d": {
+      "ProjectGuid": "8dca8d79-ef9b-40d7-a550-ee116f1bc09d",
+      "DisplayName": "06.Triples of Latin Letters",
+      "ColorIndex": 7
+    },
+    "bebb4e18-348e-455b-bdc3-a2135c27a75a": {
+      "ProjectGuid": "bebb4e18-348e-455b-bdc3-a2135c27a75a",
+      "DisplayName": "07.Water Overflow",
+      "ColorIndex": 8
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 9
+}

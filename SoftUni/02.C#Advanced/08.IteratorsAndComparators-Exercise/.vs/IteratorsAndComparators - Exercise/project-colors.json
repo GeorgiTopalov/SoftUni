@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "df93fb05-6c22-4357-b4f8-005af94c0040": {
+      "ProjectGuid": "df93fb05-6c22-4357-b4f8-005af94c0040",
+      "DisplayName": "IteratorsAndComparators - Exercise",
+      "ColorIndex": 0
+    },
+    "b6d25ef0-899d-41e6-93e2-5716d546e66c": {
+      "ProjectGuid": "b6d25ef0-899d-41e6-93e2-5716d546e66c",
+      "DisplayName": "01.LystIterator",
+      "ColorIndex": 1
+    },
+    "cc594d41-089a-4a33-b053-8c2a8ef696d7": {
+      "ProjectGuid": "cc594d41-089a-4a33-b053-8c2a8ef696d7",
+      "DisplayName": "02.Collection",
+      "ColorIndex": 2
+    },
+    "08abdd89-ed66-44b0-854a-5f49fa0ce721": {
+      "ProjectGuid": "08abdd89-ed66-44b0-854a-5f49fa0ce721",
+      "DisplayName": "03.Stack",
+      "ColorIndex": 3
+    },
+    "4a1b77c9-439c-4909-8d37-dbee1a080c74": {
+      "ProjectGuid": "4a1b77c9-439c-4909-8d37-dbee1a080c74",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 4
+    },
+    "450ef7b5-f8b0-4dde-8a18-05218e6d6440": {
+      "ProjectGuid": "450ef7b5-f8b0-4dde-8a18-05218e6d6440",
+      "DisplayName": "04.Froggy",
+      "ColorIndex": 5
+    },
+    "0da09dd2-26c4-44fc-94d1-71a27ee456d2": {
+      "ProjectGuid": "0da09dd2-26c4-44fc-94d1-71a27ee456d2",
+      "DisplayName": "05.ComparingObjects",
+      "ColorIndex": 6
+    },
+    "e3d2f46e-fffb-4356-82bd-0c1b59a9560b": {
+      "ProjectGuid": "e3d2f46e-fffb-4356-82bd-0c1b59a9560b",
+      "DisplayName": "06.CustomComparator",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

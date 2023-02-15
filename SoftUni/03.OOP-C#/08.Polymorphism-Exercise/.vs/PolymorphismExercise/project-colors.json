@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e26c0641-4315-486f-a2d2-6ccac257b6e9": {
+      "ProjectGuid": "e26c0641-4315-486f-a2d2-6ccac257b6e9",
+      "DisplayName": "PolymorphismExercise",
+      "ColorIndex": 0
+    },
+    "dc446abc-1151-476d-91fe-239a80f49ccb": {
+      "ProjectGuid": "dc446abc-1151-476d-91fe-239a80f49ccb",
+      "DisplayName": "01.Vehicles",
+      "ColorIndex": 1
+    },
+    "e2b16b50-9ac0-469c-b297-25d1be206634": {
+      "ProjectGuid": "e2b16b50-9ac0-469c-b297-25d1be206634",
+      "DisplayName": "02.VehiclesExtension",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "28b04117-67c6-408b-ae15-107f963fcac1": {
+      "ProjectGuid": "28b04117-67c6-408b-ae15-107f963fcac1",
+      "DisplayName": "04.WildFarm",
+      "ColorIndex": 3
+    },
+    "255ba94b-ab90-4e88-96b5-b085c0c772f3": {
+      "ProjectGuid": "255ba94b-ab90-4e88-96b5-b085c0c772f3",
+      "DisplayName": "03.Raiding",
+      "ColorIndex": 4
+    },
+    "f64c83ec-1602-4e86-9b06-83efece42a84": {
+      "ProjectGuid": "f64c83ec-1602-4e86-9b06-83efece42a84",
+      "DisplayName": "04.WildFarm",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

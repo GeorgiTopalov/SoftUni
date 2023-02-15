@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cf4de23d-27cc-4018-adb1-b45ac7deea7d": {
+      "ProjectGuid": "cf4de23d-27cc-4018-adb1-b45ac7deea7d",
+      "DisplayName": "PolymorphismLab",
+      "ColorIndex": 0
+    },
+    "c66d43ef-6271-4393-a6fa-8ab6ca646c4f": {
+      "ProjectGuid": "c66d43ef-6271-4393-a6fa-8ab6ca646c4f",
+      "DisplayName": "01.MathOperations",
+      "ColorIndex": 1
+    },
+    "c43d7a11-c1ed-4092-9ff1-792448dc1415": {
+      "ProjectGuid": "c43d7a11-c1ed-4092-9ff1-792448dc1415",
+      "DisplayName": "02.Animals",
+      "ColorIndex": 2
+    },
+    "d1b51f0a-b921-4de1-8476-5633a1ddad6d": {
+      "ProjectGuid": "d1b51f0a-b921-4de1-8476-5633a1ddad6d",
+      "DisplayName": "03.Shapes",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

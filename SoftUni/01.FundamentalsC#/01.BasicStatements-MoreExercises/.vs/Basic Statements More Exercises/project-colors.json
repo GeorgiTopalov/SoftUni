@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cfcbe64e-fd26-40aa-8f53-62110ed0aaef": {
+      "ProjectGuid": "cfcbe64e-fd26-40aa-8f53-62110ed0aaef",
+      "DisplayName": "Sort Numbers",
+      "ColorIndex": 0
+    },
+    "9829cc91-5973-44ac-8e81-b9d44db8ea4f": {
+      "ProjectGuid": "9829cc91-5973-44ac-8e81-b9d44db8ea4f",
+      "DisplayName": "English Name of the Last Digit",
+      "ColorIndex": 1
+    },
+    "12aab0db-9663-4c44-8860-ee403b824e2b": {
+      "ProjectGuid": "12aab0db-9663-4c44-8860-ee403b824e2b",
+      "DisplayName": "Gaming Store",
+      "ColorIndex": 2
+    },
+    "48486ac8-49f5-493a-b6fc-3fec24270d36": {
+      "ProjectGuid": "48486ac8-49f5-493a-b6fc-3fec24270d36",
+      "DisplayName": "Reverse String",
+      "ColorIndex": 3
+    },
+    "8ec3fafc-aeed-4934-8300-2a5d9ea5f84d": {
+      "ProjectGuid": "8ec3fafc-aeed-4934-8300-2a5d9ea5f84d",
+      "DisplayName": "Messages",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

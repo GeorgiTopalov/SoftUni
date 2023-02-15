@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "653d8db0-4ccb-4255-9dfb-417e83e4883d": {
+      "ProjectGuid": "653d8db0-4ccb-4255-9dfb-417e83e4883d",
+      "DisplayName": "01.The Imitation Game",
+      "ColorIndex": 0
+    },
+    "44f8b49d-5fdf-4095-a24a-6f97915ad7bd": {
+      "ProjectGuid": "44f8b49d-5fdf-4095-a24a-6f97915ad7bd",
+      "DisplayName": "02.Ad Astra",
+      "ColorIndex": 1
+    },
+    "c85c2a73-01ae-469d-accc-b899def34e8f": {
+      "ProjectGuid": "c85c2a73-01ae-469d-accc-b899def34e8f",
+      "DisplayName": "03.The Pianist",
+      "ColorIndex": 2
+    },
+    "6c852881-eb00-40be-be9a-c3f1072564e9": {
+      "ProjectGuid": "6c852881-eb00-40be-be9a-c3f1072564e9",
+      "DisplayName": "04.World Tour",
+      "ColorIndex": 3
+    },
+    "78b65ef8-fae3-4771-8c74-e5900513aa39": {
+      "ProjectGuid": "78b65ef8-fae3-4771-8c74-e5900513aa39",
+      "DisplayName": "05.Destination Mapper",
+      "ColorIndex": 4
+    },
+    "32bdca8f-5a49-4e9b-abbb-fb835d16ae20": {
+      "ProjectGuid": "32bdca8f-5a49-4e9b-abbb-fb835d16ae20",
+      "DisplayName": "06.Plant Discovery",
+      "ColorIndex": 5
+    },
+    "ff19ee99-b899-4783-b120-a91eb6ead647": {
+      "ProjectGuid": "ff19ee99-b899-4783-b120-a91eb6ead647",
+      "DisplayName": "07.Secret Chat",
+      "ColorIndex": 6
+    },
+    "94f760d1-ca0a-4b1f-98cd-ad31c06bb44c": {
+      "ProjectGuid": "94f760d1-ca0a-4b1f-98cd-ad31c06bb44c",
+      "DisplayName": "08.Mirror Words",
+      "ColorIndex": 7
+    },
+    "3bbb02af-544b-4cba-ad57-4d84a8c657bc": {
+      "ProjectGuid": "3bbb02af-544b-4cba-ad57-4d84a8c657bc",
+      "DisplayName": "09.Need For Speed III",
+      "ColorIndex": 8
+    },
+    "e6505a70-a320-4bbb-a0b8-6656f0fa9894": {
+      "ProjectGuid": "e6505a70-a320-4bbb-a0b8-6656f0fa9894",
+      "DisplayName": "10.Password Reset",
+      "ColorIndex": 9
+    },
+    "3d76b7a2-b119-44b0-b2a3-d7a9efeb7f67": {
+      "ProjectGuid": "3d76b7a2-b119-44b0-b2a3-d7a9efeb7f67",
+      "DisplayName": "11.Fancy Barcodes",
+      "ColorIndex": 10
+    },
+    "1983c081-e90c-4355-a8ec-45a0ea4a08db": {
+      "ProjectGuid": "1983c081-e90c-4355-a8ec-45a0ea4a08db",
+      "DisplayName": "12.Heroes of Code and Logic VII",
+      "ColorIndex": 11
+    },
+    "b3d923c4-9b34-4431-abc8-6dc21f4af96f": {
+      "ProjectGuid": "b3d923c4-9b34-4431-abc8-6dc21f4af96f",
+      "DisplayName": "13.Activation Keys",
+      "ColorIndex": 12
+    },
+    "cf1d5017-6295-4960-8c9a-1258e27e3f8a": {
+      "ProjectGuid": "cf1d5017-6295-4960-8c9a-1258e27e3f8a",
+      "DisplayName": "14.Emoji Detector",
+      "ColorIndex": 13
+    },
+    "adc792f9-453b-4ad3-b21c-606349f5f31d": {
+      "ProjectGuid": "adc792f9-453b-4ad3-b21c-606349f5f31d",
+      "DisplayName": "15.P!rates",
+      "ColorIndex": 14
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "24ec4227-7469-4178-a7e1-84131e8c684d": {
+      "ProjectGuid": "24ec4227-7469-4178-a7e1-84131e8c684d",
+      "DisplayName": "06.Plant Discovery",
+      "ColorIndex": 15
+    }
+  },
+  "NextColorIndex": 0
+}

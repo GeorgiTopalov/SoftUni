@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9a97510f-4a94-49bb-bf0f-d31874479d07": {
+      "ProjectGuid": "9a97510f-4a94-49bb-bf0f-d31874479d07",
+      "DisplayName": "BookingApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

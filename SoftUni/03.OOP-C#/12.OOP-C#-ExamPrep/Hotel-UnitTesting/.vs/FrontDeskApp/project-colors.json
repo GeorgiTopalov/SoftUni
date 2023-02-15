@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "75b46838-88be-41c6-8991-059ddc604570": {
+      "ProjectGuid": "75b46838-88be-41c6-8991-059ddc604570",
+      "DisplayName": "FrontDeskApp",
+      "ColorIndex": 0
+    },
+    "349e67f1-aed7-44e1-859c-cc8bc348ce14": {
+      "ProjectGuid": "349e67f1-aed7-44e1-859c-cc8bc348ce14",
+      "DisplayName": "BookigApp.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

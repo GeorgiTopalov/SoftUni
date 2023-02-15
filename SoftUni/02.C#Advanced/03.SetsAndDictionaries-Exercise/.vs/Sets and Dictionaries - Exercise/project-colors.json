@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0d0e0a5d-60c6-4681-845b-9abccd439911": {
+      "ProjectGuid": "0d0e0a5d-60c6-4681-845b-9abccd439911",
+      "DisplayName": "01.UniqueUsernames",
+      "ColorIndex": 0
+    },
+    "7e23ed89-42d6-49cf-96a7-8209d9096641": {
+      "ProjectGuid": "7e23ed89-42d6-49cf-96a7-8209d9096641",
+      "DisplayName": "02.SetsOfElements",
+      "ColorIndex": 1
+    },
+    "99e3210d-c927-4e48-8402-2514519baf2b": {
+      "ProjectGuid": "99e3210d-c927-4e48-8402-2514519baf2b",
+      "DisplayName": "03.PeriodicTable",
+      "ColorIndex": 2
+    },
+    "29775634-4cb0-4251-87cf-654f08c7d85f": {
+      "ProjectGuid": "29775634-4cb0-4251-87cf-654f08c7d85f",
+      "DisplayName": "04.EvenTimes",
+      "ColorIndex": 3
+    },
+    "0bb3cdec-a363-4ef0-9f88-e85b58f2179b": {
+      "ProjectGuid": "0bb3cdec-a363-4ef0-9f88-e85b58f2179b",
+      "DisplayName": "05.CountSymbols",
+      "ColorIndex": 4
+    },
+    "48a8e418-ada2-46d3-876f-d63691ae9cb4": {
+      "ProjectGuid": "48a8e418-ada2-46d3-876f-d63691ae9cb4",
+      "DisplayName": "06.Wardrobe",
+      "ColorIndex": 5
+    },
+    "9efba9c8-3af5-4df9-adca-4a5d7951c130": {
+      "ProjectGuid": "9efba9c8-3af5-4df9-adca-4a5d7951c130",
+      "DisplayName": "07.TheV-Logger",
+      "ColorIndex": 6
+    },
+    "247639e3-7cde-49a6-9d60-e2637260c2ba": {
+      "ProjectGuid": "247639e3-7cde-49a6-9d60-e2637260c2ba",
+      "DisplayName": "08.Ranking",
+      "ColorIndex": 7
+    },
+    "0e9aa628-6be9-4ba3-aa92-d6353d441b1e": {
+      "ProjectGuid": "0e9aa628-6be9-4ba3-aa92-d6353d441b1e",
+      "DisplayName": "09.SoftUniExamResults",
+      "ColorIndex": 8
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 9
+}

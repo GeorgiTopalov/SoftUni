@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a3c7f241-92b5-4edc-abf3-d587ef8fbfb3": {
+      "ProjectGuid": "a3c7f241-92b5-4edc-abf3-d587ef8fbfb3",
+      "DisplayName": "Aquariums",
+      "ColorIndex": 0
+    },
+    "646c24ec-2751-4bf2-a3a5-2cfd7ea92785": {
+      "ProjectGuid": "646c24ec-2751-4bf2-a3a5-2cfd7ea92785",
+      "DisplayName": "Aquariums.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

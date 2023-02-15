@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b893ca3c-b695-4d68-a864-4ad84d4e59c4": {
+      "ProjectGuid": "b893ca3c-b695-4d68-a864-4ad84d4e59c4",
+      "DisplayName": "Advanced Exam Prep",
+      "ColorIndex": 0
+    },
+    "281c60b2-49ad-4632-80df-6b6b469368fe": {
+      "ProjectGuid": "281c60b2-49ad-4632-80df-6b6b469368fe",
+      "DisplayName": "01.TilesMaster",
+      "ColorIndex": 1
+    },
+    "539c5d1f-9134-4fcc-9f66-6a7692a64b0c": {
+      "ProjectGuid": "539c5d1f-9134-4fcc-9f66-6a7692a64b0c",
+      "DisplayName": "02.WallDestroyer",
+      "ColorIndex": 2
+    },
+    "4324c169-5fdf-4850-b394-566f535895b8": {
+      "ProjectGuid": "4324c169-5fdf-4850-b394-566f535895b8",
+      "DisplayName": "03.Renovators",
+      "ColorIndex": 3
+    },
+    "dc42f460-717c-416a-8e21-95988e544a63": {
+      "ProjectGuid": "dc42f460-717c-416a-8e21-95988e544a63",
+      "DisplayName": "01.MealPlan",
+      "ColorIndex": 4
+    },
+    "de6f6f78-4628-4ca4-ac20-fac8a0708efe": {
+      "ProjectGuid": "de6f6f78-4628-4ca4-ac20-fac8a0708efe",
+      "DisplayName": "02.TruffleHunter",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "2b10e236-a6fe-4be5-a9a4-28fbbc7d5956": {
+      "ProjectGuid": "2b10e236-a6fe-4be5-a9a4-28fbbc7d5956",
+      "DisplayName": "01.BakeryShop",
+      "ColorIndex": 6
+    },
+    "f536aab6-31b8-42d8-9c9e-c66265408b17": {
+      "ProjectGuid": "f536aab6-31b8-42d8-9c9e-c66265408b17",
+      "DisplayName": "02.BeaverAtWork",
+      "ColorIndex": 7
+    },
+    "ad3143d2-70e9-4b5c-8c0e-28330866974b": {
+      "ProjectGuid": "ad3143d2-70e9-4b5c-8c0e-28330866974b",
+      "DisplayName": "01.Blacksmith",
+      "ColorIndex": 8
+    },
+    "75bfe755-41fe-4181-99a5-f5f9ce97931e": {
+      "ProjectGuid": "75bfe755-41fe-4181-99a5-f5f9ce97931e",
+      "DisplayName": "02.Armory",
+      "ColorIndex": 9
+    },
+    "dc97448b-d661-4d2a-bc50-5d5e20f2b510": {
+      "ProjectGuid": "dc97448b-d661-4d2a-bc50-5d5e20f2b510",
+      "DisplayName": "03.Drones",
+      "ColorIndex": 10
+    },
+    "95d0bd91-9ca4-4e57-8c49-e76299e7923c": {
+      "ProjectGuid": "95d0bd91-9ca4-4e57-8c49-e76299e7923c",
+      "DisplayName": "03.Renovators",
+      "ColorIndex": 11
+    },
+    "66348d90-63ff-4e8c-bbba-05423b7c00ff": {
+      "ProjectGuid": "66348d90-63ff-4e8c-bbba-05423b7c00ff",
+      "DisplayName": "03.FishingNet",
+      "ColorIndex": 12
+    },
+    "2fbd6e35-898e-4a3b-be7f-78dc90daaa2f": {
+      "ProjectGuid": "2fbd6e35-898e-4a3b-be7f-78dc90daaa2f",
+      "DisplayName": "03.Zoo",
+      "ColorIndex": 13
+    },
+    "44936ed7-e53b-4c48-9e8c-707b2b6a3f44": {
+      "ProjectGuid": "44936ed7-e53b-4c48-9e8c-707b2b6a3f44",
+      "DisplayName": "StockMarket",
+      "ColorIndex": 14
+    },
+    "c99586c4-75f2-421e-866e-03f7c731210a": {
+      "ProjectGuid": "c99586c4-75f2-421e-866e-03f7c731210a",
+      "DisplayName": "01.BirthdayCelebration",
+      "ColorIndex": 15
+    },
+    "b9e8eb03-d180-4498-b960-f1e6413e8d1b": {
+      "ProjectGuid": "b9e8eb03-d180-4498-b960-f1e6413e8d1b",
+      "DisplayName": "02.TheBattleOfTheFiveArmies",
+      "ColorIndex": 0
+    },
+    "b56c9b2b-23cb-4947-aaea-0e4b8011683c": {
+      "ProjectGuid": "b56c9b2b-23cb-4947-aaea-0e4b8011683c",
+      "DisplayName": "StreetRacing",
+      "ColorIndex": 1
+    },
+    "7389fb3c-6825-40ff-9bf5-fe100417326f": {
+      "ProjectGuid": "7389fb3c-6825-40ff-9bf5-fe100417326f",
+      "DisplayName": "StreetRacing",
+      "ColorIndex": 2
+    },
+    "fd3093f7-5302-4b5e-9c9c-3fec33ae42bd": {
+      "ProjectGuid": "fd3093f7-5302-4b5e-9c9c-3fec33ae42bd",
+      "DisplayName": "01.Masterchef",
+      "ColorIndex": 3
+    },
+    "2f03faf6-a09b-479a-b568-966270a1b5e7": {
+      "ProjectGuid": "2f03faf6-a09b-479a-b568-966270a1b5e7",
+      "DisplayName": "02.Survivor",
+      "ColorIndex": 4
+    },
+    "a813c44f-e4b3-421f-9ea8-88ffabdf7599": {
+      "ProjectGuid": "a813c44f-e4b3-421f-9ea8-88ffabdf7599",
+      "DisplayName": "SkiRental",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

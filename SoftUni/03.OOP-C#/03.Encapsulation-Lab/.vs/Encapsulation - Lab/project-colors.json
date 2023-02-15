@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3a935e0c-792a-4b2e-8889-c230f1974af4": {
+      "ProjectGuid": "3a935e0c-792a-4b2e-8889-c230f1974af4",
+      "DisplayName": "Encapsulation - Lab",
+      "ColorIndex": 0
+    },
+    "3d8666db-399d-4b6d-8a3e-f1cb10c12238": {
+      "ProjectGuid": "3d8666db-399d-4b6d-8a3e-f1cb10c12238",
+      "DisplayName": "01.Persons",
+      "ColorIndex": 1
+    },
+    "d46236e1-6285-4146-9477-ab1f6d0f4a5e": {
+      "ProjectGuid": "d46236e1-6285-4146-9477-ab1f6d0f4a5e",
+      "DisplayName": "02.Salary",
+      "ColorIndex": 2
+    },
+    "b077e11a-0785-4aa4-988b-c8331ffd23e0": {
+      "ProjectGuid": "b077e11a-0785-4aa4-988b-c8331ffd23e0",
+      "DisplayName": "03.Validation",
+      "ColorIndex": 3
+    },
+    "099aa40a-4660-4a4c-aef6-8ad5cbe6e33c": {
+      "ProjectGuid": "099aa40a-4660-4a4c-aef6-8ad5cbe6e33c",
+      "DisplayName": "04.Team",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

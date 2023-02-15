@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7ae07095-b423-44ca-8725-e9b15833ca61": {
+      "ProjectGuid": "7ae07095-b423-44ca-8725-e9b15833ca61",
+      "DisplayName": "EncapsulationExercise",
+      "ColorIndex": 0
+    },
+    "b9cc5eba-a6cd-4a2c-8fc0-5813f8bf14c3": {
+      "ProjectGuid": "b9cc5eba-a6cd-4a2c-8fc0-5813f8bf14c3",
+      "DisplayName": "01.ClassBoxData",
+      "ColorIndex": 1
+    },
+    "75c7d434-11f3-4eff-8f6a-fb75de2a42a4": {
+      "ProjectGuid": "75c7d434-11f3-4eff-8f6a-fb75de2a42a4",
+      "DisplayName": "02.AnimalFarm",
+      "ColorIndex": 2
+    },
+    "b71ca253-31a9-43ad-969a-a348a40c5aa7": {
+      "ProjectGuid": "b71ca253-31a9-43ad-969a-a348a40c5aa7",
+      "DisplayName": "02.AnimalFarm",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "08909eaf-d8c0-48b1-a0df-c03ca0c58012": {
+      "ProjectGuid": "08909eaf-d8c0-48b1-a0df-c03ca0c58012",
+      "DisplayName": "03.ShoppingSpree",
+      "ColorIndex": 4
+    },
+    "682c615c-df2d-40b2-ac40-40ace46274fc": {
+      "ProjectGuid": "682c615c-df2d-40b2-ac40-40ace46274fc",
+      "DisplayName": "04.PizzaCalories",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

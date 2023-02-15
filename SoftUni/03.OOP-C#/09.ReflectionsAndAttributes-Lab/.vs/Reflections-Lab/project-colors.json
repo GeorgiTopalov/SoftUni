@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b929ab26-5e50-4ca0-b76d-6d526d8d13fc": {
+      "ProjectGuid": "b929ab26-5e50-4ca0-b76d-6d526d8d13fc",
+      "DisplayName": "Reflections-Lab",
+      "ColorIndex": 0
+    },
+    "80bb9fe5-c3cf-4425-aae5-0c1e11490af1": {
+      "ProjectGuid": "80bb9fe5-c3cf-4425-aae5-0c1e11490af1",
+      "DisplayName": "01.Stealer",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "68254e4a-4793-4696-88b5-42dc5a3ce50a": {
+      "ProjectGuid": "68254e4a-4793-4696-88b5-42dc5a3ce50a",
+      "DisplayName": "02.HighQualityMistake",
+      "ColorIndex": 2
+    },
+    "d814954e-d7ed-48f2-85a1-3947ee5d9330": {
+      "ProjectGuid": "d814954e-d7ed-48f2-85a1-3947ee5d9330",
+      "DisplayName": "03.MissionPrivateImpossible",
+      "ColorIndex": 3
+    },
+    "07cf62e4-25bf-4d08-ae2f-6c258b192792": {
+      "ProjectGuid": "07cf62e4-25bf-4d08-ae2f-6c258b192792",
+      "DisplayName": "04.Collector",
+      "ColorIndex": 4
+    },
+    "c4ba8255-12ab-4569-b5b6-4d777aa4bfe3": {
+      "ProjectGuid": "c4ba8255-12ab-4569-b5b6-4d777aa4bfe3",
+      "DisplayName": "05.CreateAttribute",
+      "ColorIndex": 5
+    },
+    "7f9f3295-bb2f-45b4-a025-a6fcafe91816": {
+      "ProjectGuid": "7f9f3295-bb2f-45b4-a025-a6fcafe91816",
+      "DisplayName": "06.CodeTracker",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

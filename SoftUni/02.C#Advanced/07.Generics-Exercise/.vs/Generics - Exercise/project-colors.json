@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cd518185-7314-43de-89ea-6fdb4dc655ba": {
+      "ProjectGuid": "cd518185-7314-43de-89ea-6fdb4dc655ba",
+      "DisplayName": "Generics - Exercose",
+      "ColorIndex": 0
+    },
+    "d8e1d195-ef7b-42bf-bd66-6e5a18233614": {
+      "ProjectGuid": "d8e1d195-ef7b-42bf-bd66-6e5a18233614",
+      "DisplayName": "01.GenericBoxOfString",
+      "ColorIndex": 1
+    },
+    "ed01e44d-58de-4542-a74b-44e9568d41e5": {
+      "ProjectGuid": "ed01e44d-58de-4542-a74b-44e9568d41e5",
+      "DisplayName": "02.GenericBoxOfInteger",
+      "ColorIndex": 2
+    },
+    "5b8fba87-aeb1-4453-bc0d-8c2de86b1d4c": {
+      "ProjectGuid": "5b8fba87-aeb1-4453-bc0d-8c2de86b1d4c",
+      "DisplayName": "03.GenericSwapMethodString",
+      "ColorIndex": 3
+    },
+    "cba923c5-41bc-4dff-ab8a-105bc443ceda": {
+      "ProjectGuid": "cba923c5-41bc-4dff-ab8a-105bc443ceda",
+      "DisplayName": "04.GenericSwapmethodInteger",
+      "ColorIndex": 4
+    },
+    "3d7df437-11ea-47e1-a863-fdbb009c9c74": {
+      "ProjectGuid": "3d7df437-11ea-47e1-a863-fdbb009c9c74",
+      "DisplayName": "05.GenericCountMethodString",
+      "ColorIndex": 5
+    },
+    "abf9459e-46aa-4545-aa71-0594cb95e7b2": {
+      "ProjectGuid": "abf9459e-46aa-4545-aa71-0594cb95e7b2",
+      "DisplayName": "06.GenericCountMethodDouble",
+      "ColorIndex": 6
+    },
+    "1e06a910-a232-42c8-ab2c-2f0ad67aa1ca": {
+      "ProjectGuid": "1e06a910-a232-42c8-ab2c-2f0ad67aa1ca",
+      "DisplayName": "07.Tuple",
+      "ColorIndex": 7
+    },
+    "ef0a8135-cb1d-4b8a-b669-3958b8cceca8": {
+      "ProjectGuid": "ef0a8135-cb1d-4b8a-b669-3958b8cceca8",
+      "DisplayName": "08.Threeuple",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

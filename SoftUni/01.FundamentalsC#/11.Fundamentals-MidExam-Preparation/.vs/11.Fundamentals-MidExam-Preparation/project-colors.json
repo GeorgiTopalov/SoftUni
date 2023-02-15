@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "88971393-93bb-472e-b6a0-ec3eaccf256e": {
+      "ProjectGuid": "88971393-93bb-472e-b6a0-ec3eaccf256e",
+      "DisplayName": "11.Fundamentals-MidExam-Preparation",
+      "ColorIndex": 0
+    },
+    "79a71cda-4c75-4d90-9d0e-a00e4dbfab14": {
+      "ProjectGuid": "79a71cda-4c75-4d90-9d0e-a00e4dbfab14",
+      "DisplayName": "01.Counter-Strike",
+      "ColorIndex": 1
+    },
+    "e4b2b1bc-b271-4d94-a266-1ad209230f7c": {
+      "ProjectGuid": "e4b2b1bc-b271-4d94-a266-1ad209230f7c",
+      "DisplayName": "02.ShootForTheWin",
+      "ColorIndex": 2
+    },
+    "9416ccb9-bea9-4660-984c-7f48a78230b4": {
+      "ProjectGuid": "9416ccb9-bea9-4660-984c-7f48a78230b4",
+      "DisplayName": "03.MovingTarget",
+      "ColorIndex": 3
+    },
+    "24f7623c-b2b6-464a-8d42-3805255e44f5": {
+      "ProjectGuid": "24f7623c-b2b6-464a-8d42-3805255e44f5",
+      "DisplayName": "01.ComputerStore",
+      "ColorIndex": 4
+    },
+    "75717c6c-888b-4561-a907-3e79e95b95c7": {
+      "ProjectGuid": "75717c6c-888b-4561-a907-3e79e95b95c7",
+      "DisplayName": "02.TheLift",
+      "ColorIndex": 5
+    },
+    "76e63dd0-1789-434d-af22-01b7f079585f": {
+      "ProjectGuid": "76e63dd0-1789-434d-af22-01b7f079585f",
+      "DisplayName": "03.MemoryGame",
+      "ColorIndex": 6
+    },
+    "06491fb9-da66-4601-8ea1-53f0d37086d1": {
+      "ProjectGuid": "06491fb9-da66-4601-8ea1-53f0d37086d1",
+      "DisplayName": "02.ShoppingList",
+      "ColorIndex": 7
+    },
+    "b63fbcbf-4923-47da-8e80-d56644af2c59": {
+      "ProjectGuid": "b63fbcbf-4923-47da-8e80-d56644af2c59",
+      "DisplayName": "03.HeartDelivery",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c32a8849-78e2-43bd-95b8-5d700c29886b": {
+      "ProjectGuid": "c32a8849-78e2-43bd-95b8-5d700c29886b",
+      "DisplayName": "01.BasicStackOperations",
+      "ColorIndex": 0
+    },
+    "e5aceed8-393b-4c78-9ec4-ff622b2701fb": {
+      "ProjectGuid": "e5aceed8-393b-4c78-9ec4-ff622b2701fb",
+      "DisplayName": "02.BasicQueueOperations",
+      "ColorIndex": 1
+    },
+    "d97d03a4-76a8-4d6f-ab48-295a3670c37a": {
+      "ProjectGuid": "d97d03a4-76a8-4d6f-ab48-295a3670c37a",
+      "DisplayName": "03.MaximumAndMinimumElement",
+      "ColorIndex": 2
+    },
+    "2efe48f0-4e5d-47af-8df2-0ab07af155a3": {
+      "ProjectGuid": "2efe48f0-4e5d-47af-8df2-0ab07af155a3",
+      "DisplayName": "04.FastFood",
+      "ColorIndex": 3
+    },
+    "08ec213b-50f4-452a-81e6-d938675d2de9": {
+      "ProjectGuid": "08ec213b-50f4-452a-81e6-d938675d2de9",
+      "DisplayName": "05.FashionBoutique",
+      "ColorIndex": 4
+    },
+    "6763b1df-23f9-4d21-8369-bfe7529ecf84": {
+      "ProjectGuid": "6763b1df-23f9-4d21-8369-bfe7529ecf84",
+      "DisplayName": "06.SongsQueue",
+      "ColorIndex": 5
+    },
+    "f4b2e307-fbc6-4ad6-8492-b4fa4c507bdb": {
+      "ProjectGuid": "f4b2e307-fbc6-4ad6-8492-b4fa4c507bdb",
+      "DisplayName": "07.TruckTour",
+      "ColorIndex": 6
+    },
+    "bd5daa16-44bf-4776-ac41-0db2576e1d26": {
+      "ProjectGuid": "bd5daa16-44bf-4776-ac41-0db2576e1d26",
+      "DisplayName": "08.BalancedParenthesis",
+      "ColorIndex": 7
+    },
+    "fb6ea5cb-80f8-47ac-b855-6520756c407b": {
+      "ProjectGuid": "fb6ea5cb-80f8-47ac-b855-6520756c407b",
+      "DisplayName": "09.SimpleTextEditor",
+      "ColorIndex": 8
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 9
+}

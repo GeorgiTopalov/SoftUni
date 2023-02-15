@@ -1,0 +1,16 @@
+{
+  "name": "23-oct-2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "02.Camping.js",
+  "scripts": {
+    "test": "mocha ./*test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.1.0"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9bde53d5-5d3e-482f-8aaa-5c1cfd9aaf5a": {
+      "ProjectGuid": "9bde53d5-5d3e-482f-8aaa-5c1cfd9aaf5a",
+      "DisplayName": "01.Farm",
+      "ColorIndex": 0
+    },
+    "b6b914a6-fefa-4b76-9159-6244f8e22122": {
+      "ProjectGuid": "b6b914a6-fefa-4b76-9159-6244f8e22122",
+      "DisplayName": "02.MultipleInheritance",
+      "ColorIndex": 1
+    },
+    "031e2b30-44bb-439e-89a2-93a8627463b4": {
+      "ProjectGuid": "031e2b30-44bb-439e-89a2-93a8627463b4",
+      "DisplayName": "03.HierarchicalInheritance",
+      "ColorIndex": 2
+    },
+    "9e1ce16b-fa0c-40b1-81c9-e2b04d2fb2bb": {
+      "ProjectGuid": "9e1ce16b-fa0c-40b1-81c9-e2b04d2fb2bb",
+      "DisplayName": "04.RandomList",
+      "ColorIndex": 3
+    },
+    "e858af3d-ffab-46b3-a232-cbcb9576b0cc": {
+      "ProjectGuid": "e858af3d-ffab-46b3-a232-cbcb9576b0cc",
+      "DisplayName": "05.StackOfStrings",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

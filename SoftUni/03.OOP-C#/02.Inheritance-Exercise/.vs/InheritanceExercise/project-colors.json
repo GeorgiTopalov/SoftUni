@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b017c35f-8072-418c-9ece-29bc667a118c": {
+      "ProjectGuid": "b017c35f-8072-418c-9ece-29bc667a118c",
+      "DisplayName": "01.Person",
+      "ColorIndex": 0
+    },
+    "9930d442-7f88-406e-aae0-9461db0b329e": {
+      "ProjectGuid": "9930d442-7f88-406e-aae0-9461db0b329e",
+      "DisplayName": "02.Zoo",
+      "ColorIndex": 1
+    },
+    "d2249e70-2fc3-4800-ac7f-7fac380007ad": {
+      "ProjectGuid": "d2249e70-2fc3-4800-ac7f-7fac380007ad",
+      "DisplayName": "03.PlayersAndMonsters",
+      "ColorIndex": 2
+    },
+    "f792c3a4-d2e2-4c16-8d26-a556d32cdebd": {
+      "ProjectGuid": "f792c3a4-d2e2-4c16-8d26-a556d32cdebd",
+      "DisplayName": "04.NeedForSpeed",
+      "ColorIndex": 3
+    },
+    "f5bbdd67-3182-49f7-9333-a67939d000be": {
+      "ProjectGuid": "f5bbdd67-3182-49f7-9333-a67939d000be",
+      "DisplayName": "05.Restaurant",
+      "ColorIndex": 4
+    },
+    "23920482-0658-4b8f-aadf-f7ac11015041": {
+      "ProjectGuid": "23920482-0658-4b8f-aadf-f7ac11015041",
+      "DisplayName": "06.Animals",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ef9c8ee0-efa7-419b-9422-0888c701bc17": {
+      "ProjectGuid": "ef9c8ee0-efa7-419b-9422-0888c701bc17",
+      "DisplayName": "PlanetWars",
+      "ColorIndex": 0
+    },
+    "1714d35a-228d-4659-bbc8-171c4acfa0f2": {
+      "ProjectGuid": "1714d35a-228d-4659-bbc8-171c4acfa0f2",
+      "DisplayName": "PlanetWars.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

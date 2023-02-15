@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c648f4ee-0ee2-4df0-9423-5d2e49926650": {
+      "ProjectGuid": "c648f4ee-0ee2-4df0-9423-5d2e49926650",
+      "DisplayName": "InterfaceAndAbstractionLab",
+      "ColorIndex": 0
+    },
+    "4778ebf1-3738-4b79-a26b-d86975109906": {
+      "ProjectGuid": "4778ebf1-3738-4b79-a26b-d86975109906",
+      "DisplayName": "01.Shapes",
+      "ColorIndex": 1
+    },
+    "e9f89865-74ae-4cf0-adc1-eb7cc9390e73": {
+      "ProjectGuid": "e9f89865-74ae-4cf0-adc1-eb7cc9390e73",
+      "DisplayName": "02.Cars",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

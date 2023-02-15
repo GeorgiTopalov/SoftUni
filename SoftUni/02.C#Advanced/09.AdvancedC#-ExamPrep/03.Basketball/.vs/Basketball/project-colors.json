@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "76e144d1-2ef5-4ca3-aaf4-8b632887343b": {
+      "ProjectGuid": "76e144d1-2ef5-4ca3-aaf4-8b632887343b",
+      "DisplayName": "Basketball",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

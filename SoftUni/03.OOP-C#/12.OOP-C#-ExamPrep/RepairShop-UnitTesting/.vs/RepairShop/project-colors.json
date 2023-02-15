@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ff18bdba-2ace-4531-b30f-1341d9ec1132": {
+      "ProjectGuid": "ff18bdba-2ace-4531-b30f-1341d9ec1132",
+      "DisplayName": "RepairShop",
+      "ColorIndex": 0
+    },
+    "b2cc2d2b-367a-49e8-86ba-f8c5d9574710": {
+      "ProjectGuid": "b2cc2d2b-367a-49e8-86ba-f8c5d9574710",
+      "DisplayName": "RepairShop.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
